@@ -2,5 +2,5 @@
   "watch": ["src"],
   "ext": ".ts",
   "ignore": [],
-  "exec": "yarn ts-node ./src/index.ts"
+  "exec": "yarn ts-node -r tsconfig-paths/register ./src/app/server.ts"
 }
