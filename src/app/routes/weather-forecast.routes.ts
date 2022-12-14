@@ -16,11 +16,11 @@ export const weatherForecastRoutes: ServerRoute[] = [
   },
   {
     method: 'GET',
-    path: '/weather-forecasts/${cityId}/avg-temp',
+    path: '/weather-forecasts/{cityId}/avg-temp',
     options: {
       tags: ['api', 'weather-forecasts'],
       handler: (request) =>
-        appDIContainer.get<IWeatherForecastService>(TYPES.WEATHER_FORECAST_SERVICE).getAvgTemperature(request)
+        appDIContainer.get<IWeatherForecastService>(TYPES.WEATHER_FORECAST_SERVICE).getAvgTemperature(request),
     }
   }
 ];

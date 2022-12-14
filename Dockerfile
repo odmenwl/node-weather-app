@@ -1,6 +1,6 @@
 FROM node:alpine
-ENV SERVER_HOST=0.0.0.0
-ENV SERVER_PORT=5000
+ENV APP_PORT=0.0.0.
+ENV APP_HOST=5000
 
 WORKDIR /usr/src/app
 
@@ -13,4 +13,4 @@ COPY . .
 
 EXPOSE 5000
 
-CMD yarn run build && yarn run start:prod
+CMD yarn run start

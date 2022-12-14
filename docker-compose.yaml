@@ -1,0 +1,28 @@
+version: '3.8'
+services:
+  app:
+    container_name: weather-app
+    build: .
+    depends_on:
+      - postgres
+    ports:
+      - "5000:5000"
+    environment:
+      APP_HOST: 0.0.0.0
+      APP_PORT: 5000
+      DB_HOST: postgres
+      DB_USER: postgres
+      DB_PASSWORD: postgres
+      DB_DATABASE: weather
+
+  postgres:
+    image: postgres:14.1-alpine
+    restart: always
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_DB=weather
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./src/db/init.sql:/docker-entrypoint-initdb.d/init.sql
