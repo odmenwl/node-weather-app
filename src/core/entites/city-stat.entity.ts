@@ -14,7 +14,9 @@ export class CityStatEntity extends BaseEntity implements ICityStat {
   })
   numberOfView: number;
 
-  @OneToOne(() => CityEntity)
+  @OneToOne(() => CityEntity, {
+    createForeignKeyConstraints: false,
+  })
   @JoinColumn({
     name: 'id',
     referencedColumnName: 'cityStatId'

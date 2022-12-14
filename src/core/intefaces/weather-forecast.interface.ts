@@ -8,7 +8,7 @@ import { WeatherDataSourceEnum } from '$core/enums';
 export interface IWeatherForecast extends IBaseEntity {
   sunrise: number;
   sunset: number;
-  dayTimestamp: number;
+  date: Date;
   description: string | null;
   weatherDataSource: WeatherDataSourceEnum;
   cityId: number;

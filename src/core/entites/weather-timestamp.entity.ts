@@ -1,4 +1,4 @@
-import { Column, Entity, ManyToOne, OneToOne } from 'typeorm';
+import { Column, Entity, ManyToOne, OneToOne, Unique } from 'typeorm';
 
 import { BaseEntity } from './base.entity';
 import { WeatherForecastEntity } from './weather-forecast.entity';
@@ -10,6 +10,7 @@ import { IWeatherTimestamp } from '$core/intefaces';
 
 
 @Entity('WeatherTimestamps')
+@Unique('WeatherTimestamps_timestamp_weatherForecastId_constraint', ['timestamp', 'weatherForecastId'])
 export class WeatherTimestampEntity extends BaseEntity implements IWeatherTimestamp {
   @Column({
     type: 'float'

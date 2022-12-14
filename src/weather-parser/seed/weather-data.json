@@ -1,0 +1,4427 @@
+[
+  {
+    "weatherDataSource": "OPEN_WEATHER_MAP",
+    "cityId": 1,
+    "sunset": 1671033239,
+    "sunrise": 1671003393,
+    "timestamps": [
+      {
+        "cloudiness": 33,
+        "timestamp": 1671062400,
+        "weatherWind": {
+          "degrees": 29,
+          "speed": 1.83,
+          "gust": 5.38
+        },
+        "weatherDescription": {
+          "text": "scattered clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 77,
+          "pressure": 1005,
+          "temperature": 0.1,
+          "temperatureMax": 0.1,
+          "temperatureMin": -1.41,
+          "temperatureFeelsLike": -2.12
+        }
+      },
+      {
+        "cloudiness": 59,
+        "timestamp": 1671073200,
+        "weatherWind": {
+          "degrees": 34,
+          "speed": 2.37,
+          "gust": 6.41
+        },
+        "weatherDescription": {
+          "text": "broken clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 77,
+          "pressure": 1006,
+          "temperature": -1.18,
+          "temperatureMax": -1.18,
+          "temperatureMin": -2.2,
+          "temperatureFeelsLike": -4.28
+        }
+      },
+      {
+        "cloudiness": 73,
+        "timestamp": 1671084000,
+        "weatherWind": {
+          "degrees": 39,
+          "speed": 2.68,
+          "gust": 8.19
+        },
+        "weatherDescription": {
+          "text": "broken clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 73,
+          "pressure": 1007,
+          "temperature": -2.38,
+          "temperatureMax": -2.38,
+          "temperatureMin": -2.38,
+          "temperatureFeelsLike": -6.04
+        }
+      },
+      {
+        "cloudiness": 97,
+        "timestamp": 1671094800,
+        "weatherWind": {
+          "degrees": 39,
+          "speed": 2.82,
+          "gust": 9.17
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 67,
+          "pressure": 1008,
+          "temperature": -1.44,
+          "temperatureMax": -1.44,
+          "temperatureMin": -1.44,
+          "temperatureFeelsLike": -5.06
+        }
+      },
+      {
+        "cloudiness": 98,
+        "timestamp": 1671105600,
+        "weatherWind": {
+          "degrees": 31,
+          "speed": 3.9,
+          "gust": 10.93
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 62,
+          "pressure": 1008,
+          "temperature": 0.8,
+          "temperatureMax": 0.8,
+          "temperatureMin": 0.8,
+          "temperatureFeelsLike": -3.23
+        }
+      },
+      {
+        "cloudiness": 57,
+        "timestamp": 1671116400,
+        "weatherWind": {
+          "degrees": 33,
+          "speed": 4.35,
+          "gust": 13.23
+        },
+        "weatherDescription": {
+          "text": "broken clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 70,
+          "pressure": 1007,
+          "temperature": 1.2,
+          "temperatureMax": 1.2,
+          "temperatureMin": 1.2,
+          "temperatureFeelsLike": -3.03
+        }
+      },
+      {
+        "cloudiness": 65,
+        "timestamp": 1671127200,
+        "weatherWind": {
+          "degrees": 32,
+          "speed": 4.16,
+          "gust": 13.7
+        },
+        "weatherDescription": {
+          "text": "broken clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 76,
+          "pressure": 1009,
+          "temperature": -0.09,
+          "temperatureMax": -0.09,
+          "temperatureMin": -0.09,
+          "temperatureFeelsLike": -4.5
+        }
+      },
+      {
+        "cloudiness": 99,
+        "timestamp": 1671138000,
+        "weatherWind": {
+          "degrees": 19,
+          "speed": 3.47,
+          "gust": 11.66
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 83,
+          "pressure": 1011,
+          "temperature": -0.75,
+          "temperatureMax": -0.75,
+          "temperatureMin": -0.75,
+          "temperatureFeelsLike": -4.8
+        }
+      }
+    ],
+    "date": "2022-12-14T23:00:00.000Z"
+  },
+  {
+    "weatherDataSource": "OPEN_WEATHER_MAP",
+    "cityId": 1,
+    "sunset": 1671033239,
+    "sunrise": 1671003393,
+    "timestamps": [
+      {
+        "cloudiness": 100,
+        "timestamp": 1671148800,
+        "weatherWind": {
+          "degrees": 4,
+          "speed": 2.99,
+          "gust": 10.05
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 86,
+          "pressure": 1012,
+          "temperature": -1.09,
+          "temperatureMax": -1.09,
+          "temperatureMin": -1.09,
+          "temperatureFeelsLike": -4.8
+        }
+      },
+      {
+        "cloudiness": 95,
+        "timestamp": 1671159600,
+        "weatherWind": {
+          "degrees": 358,
+          "speed": 2.48,
+          "gust": 8.17
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 90,
+          "pressure": 1013,
+          "temperature": -1.28,
+          "temperatureMax": -1.28,
+          "temperatureMin": -1.28,
+          "temperatureFeelsLike": -4.52
+        }
+      },
+      {
+        "cloudiness": 82,
+        "timestamp": 1671170400,
+        "weatherWind": {
+          "degrees": 6,
+          "speed": 2.65,
+          "gust": 10.44
+        },
+        "weatherDescription": {
+          "text": "broken clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 89,
+          "pressure": 1014,
+          "temperature": -1.04,
+          "temperatureMax": -1.04,
+          "temperatureMin": -1.04,
+          "temperatureFeelsLike": -4.41
+        }
+      },
+      {
+        "cloudiness": 12,
+        "timestamp": 1671181200,
+        "weatherWind": {
+          "degrees": 19,
+          "speed": 3.31,
+          "gust": 11.19
+        },
+        "weatherDescription": {
+          "text": "few clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 88,
+          "pressure": 1017,
+          "temperature": -0.29,
+          "temperatureMax": -0.29,
+          "temperatureMin": -0.29,
+          "temperatureFeelsLike": -4.12
+        }
+      },
+      {
+        "cloudiness": 9,
+        "timestamp": 1671192000,
+        "weatherWind": {
+          "degrees": 28,
+          "speed": 3.46,
+          "gust": 9.34
+        },
+        "weatherDescription": {
+          "text": "clear sky",
+          "type": "Clear"
+        },
+        "weatherSummary": {
+          "humidity": 77,
+          "pressure": 1018,
+          "temperature": 1.18,
+          "temperatureMax": 1.18,
+          "temperatureMin": 1.18,
+          "temperatureFeelsLike": -2.45
+        }
+      },
+      {
+        "cloudiness": 11,
+        "timestamp": 1671202800,
+        "weatherWind": {
+          "degrees": 32,
+          "speed": 1.99,
+          "gust": 5.84
+        },
+        "weatherDescription": {
+          "text": "few clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 83,
+          "pressure": 1019,
+          "temperature": 0.02,
+          "temperatureMax": 0.02,
+          "temperatureMin": 0.02,
+          "temperatureFeelsLike": -2.42
+        }
+      },
+      {
+        "cloudiness": 11,
+        "timestamp": 1671213600,
+        "weatherWind": {
+          "degrees": 8,
+          "speed": 1.85,
+          "gust": 5.84
+        },
+        "weatherDescription": {
+          "text": "few clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 82,
+          "pressure": 1021,
+          "temperature": -1.58,
+          "temperatureMax": -1.58,
+          "temperatureMin": -1.58,
+          "temperatureFeelsLike": -4.09
+        }
+      },
+      {
+        "cloudiness": 22,
+        "timestamp": 1671224400,
+        "weatherWind": {
+          "degrees": 32,
+          "speed": 1.67,
+          "gust": 5
+        },
+        "weatherDescription": {
+          "text": "few clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 78,
+          "pressure": 1022,
+          "temperature": -2.02,
+          "temperatureMax": -2.02,
+          "temperatureMin": -2.02,
+          "temperatureFeelsLike": -4.33
+        }
+      }
+    ],
+    "date": "2022-12-15T23:00:00.000Z"
+  },
+  {
+    "weatherDataSource": "OPEN_WEATHER_MAP",
+    "cityId": 1,
+    "sunset": 1671033239,
+    "sunrise": 1671003393,
+    "timestamps": [
+      {
+        "cloudiness": 17,
+        "timestamp": 1671235200,
+        "weatherWind": {
+          "degrees": 46,
+          "speed": 1.6,
+          "gust": 4.24
+        },
+        "weatherDescription": {
+          "text": "few clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 78,
+          "pressure": 1023,
+          "temperature": -2.35,
+          "temperatureMax": -2.35,
+          "temperatureMin": -2.35,
+          "temperatureFeelsLike": -4.6
+        }
+      },
+      {
+        "cloudiness": 4,
+        "timestamp": 1671246000,
+        "weatherWind": {
+          "degrees": 61,
+          "speed": 1.51,
+          "gust": 3.67
+        },
+        "weatherDescription": {
+          "text": "clear sky",
+          "type": "Clear"
+        },
+        "weatherSummary": {
+          "humidity": 78,
+          "pressure": 1024,
+          "temperature": -2.73,
+          "temperatureMax": -2.73,
+          "temperatureMin": -2.73,
+          "temperatureFeelsLike": -4.89
+        }
+      },
+      {
+        "cloudiness": 9,
+        "timestamp": 1671256800,
+        "weatherWind": {
+          "degrees": 79,
+          "speed": 1.29,
+          "gust": 2.81
+        },
+        "weatherDescription": {
+          "text": "clear sky",
+          "type": "Clear"
+        },
+        "weatherSummary": {
+          "humidity": 79,
+          "pressure": 1024,
+          "temperature": -3.29,
+          "temperatureMax": -3.29,
+          "temperatureMin": -3.29,
+          "temperatureFeelsLike": -3.29
+        }
+      },
+      {
+        "cloudiness": 27,
+        "timestamp": 1671267600,
+        "weatherWind": {
+          "degrees": 86,
+          "speed": 1.87,
+          "gust": 4.1
+        },
+        "weatherDescription": {
+          "text": "scattered clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 80,
+          "pressure": 1026,
+          "temperature": -2.71,
+          "temperatureMax": -2.71,
+          "temperatureMin": -2.71,
+          "temperatureFeelsLike": -5.43
+        }
+      },
+      {
+        "cloudiness": 55,
+        "timestamp": 1671278400,
+        "weatherWind": {
+          "degrees": 95,
+          "speed": 2.48,
+          "gust": 5.47
+        },
+        "weatherDescription": {
+          "text": "broken clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 75,
+          "pressure": 1025,
+          "temperature": -0.26,
+          "temperatureMax": -0.26,
+          "temperatureMin": -0.26,
+          "temperatureFeelsLike": -3.31
+        }
+      },
+      {
+        "cloudiness": 82,
+        "timestamp": 1671289200,
+        "weatherWind": {
+          "degrees": 85,
+          "speed": 2.47,
+          "gust": 7.71
+        },
+        "weatherDescription": {
+          "text": "broken clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 79,
+          "pressure": 1024,
+          "temperature": -0.49,
+          "temperatureMax": -0.49,
+          "temperatureMin": -0.49,
+          "temperatureFeelsLike": -3.57
+        }
+      },
+      {
+        "cloudiness": 84,
+        "timestamp": 1671300000,
+        "weatherWind": {
+          "degrees": 98,
+          "speed": 3.32,
+          "gust": 10.39
+        },
+        "weatherDescription": {
+          "text": "broken clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 82,
+          "pressure": 1024,
+          "temperature": -1.93,
+          "temperatureMax": -1.93,
+          "temperatureMin": -1.93,
+          "temperatureFeelsLike": -6.11
+        }
+      },
+      {
+        "cloudiness": 13,
+        "timestamp": 1671310800,
+        "weatherWind": {
+          "degrees": 107,
+          "speed": 2.71,
+          "gust": 8.85
+        },
+        "weatherDescription": {
+          "text": "few clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 76,
+          "pressure": 1024,
+          "temperature": -2.59,
+          "temperatureMax": -2.59,
+          "temperatureMin": -2.59,
+          "temperatureFeelsLike": -6.32
+        }
+      }
+    ],
+    "date": "2022-12-16T23:00:00.000Z"
+  },
+  {
+    "weatherDataSource": "OPEN_WEATHER_MAP",
+    "cityId": 1,
+    "sunset": 1671033239,
+    "sunrise": 1671003393,
+    "timestamps": [
+      {
+        "cloudiness": 25,
+        "timestamp": 1671321600,
+        "weatherWind": {
+          "degrees": 115,
+          "speed": 2.8,
+          "gust": 9.84
+        },
+        "weatherDescription": {
+          "text": "scattered clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 73,
+          "pressure": 1023,
+          "temperature": -3.11,
+          "temperatureMax": -3.11,
+          "temperatureMin": -3.11,
+          "temperatureFeelsLike": -7.03
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671332400,
+        "weatherWind": {
+          "degrees": 126,
+          "speed": 3.28,
+          "gust": 9.89
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 72,
+          "pressure": 1021,
+          "temperature": -2.99,
+          "temperatureMax": -2.99,
+          "temperatureMin": -2.99,
+          "temperatureFeelsLike": -7.36
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671343200,
+        "weatherWind": {
+          "degrees": 154,
+          "speed": 3.55,
+          "gust": 11.02
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 70,
+          "pressure": 1019,
+          "temperature": -1.42,
+          "temperatureMax": -1.42,
+          "temperatureMin": -1.42,
+          "temperatureFeelsLike": -5.68
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671354000,
+        "weatherWind": {
+          "degrees": 166,
+          "speed": 3.48,
+          "gust": 12.73
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 65,
+          "pressure": 1018,
+          "temperature": 0.5,
+          "temperatureMax": 0.5,
+          "temperatureMin": 0.5,
+          "temperatureFeelsLike": -3.29
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671364800,
+        "weatherWind": {
+          "degrees": 178,
+          "speed": 4.17,
+          "gust": 16.95
+        },
+        "weatherDescription": {
+          "text": "light rain",
+          "type": "Rain"
+        },
+        "weatherSummary": {
+          "humidity": 82,
+          "pressure": 1017,
+          "temperature": 1.93,
+          "temperatureMax": 1.93,
+          "temperatureMin": 1.93,
+          "temperatureFeelsLike": -2.02
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671375600,
+        "weatherWind": {
+          "degrees": 178,
+          "speed": 5.73,
+          "gust": 17.16
+        },
+        "weatherDescription": {
+          "text": "moderate rain",
+          "type": "Rain"
+        },
+        "weatherSummary": {
+          "humidity": 93,
+          "pressure": 1016,
+          "temperature": 3.05,
+          "temperatureMax": 3.05,
+          "temperatureMin": 3.05,
+          "temperatureFeelsLike": -1.46
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671386400,
+        "weatherWind": {
+          "degrees": 178,
+          "speed": 5.27,
+          "gust": 16.43
+        },
+        "weatherDescription": {
+          "text": "moderate rain",
+          "type": "Rain"
+        },
+        "weatherSummary": {
+          "humidity": 95,
+          "pressure": 1015,
+          "temperature": 3.45,
+          "temperatureMax": 3.45,
+          "temperatureMin": 3.45,
+          "temperatureFeelsLike": -0.74
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671397200,
+        "weatherWind": {
+          "degrees": 185,
+          "speed": 5.28,
+          "gust": 16.74
+        },
+        "weatherDescription": {
+          "text": "light rain",
+          "type": "Rain"
+        },
+        "weatherSummary": {
+          "humidity": 95,
+          "pressure": 1015,
+          "temperature": 5.53,
+          "temperatureMax": 5.53,
+          "temperatureMin": 5.53,
+          "temperatureFeelsLike": 1.87
+        }
+      }
+    ],
+    "date": "2022-12-17T23:00:00.000Z"
+  },
+  {
+    "weatherDataSource": "OPEN_WEATHER_MAP",
+    "cityId": 1,
+    "sunset": 1671033239,
+    "sunrise": 1671003393,
+    "timestamps": [
+      {
+        "cloudiness": 100,
+        "timestamp": 1671408000,
+        "weatherWind": {
+          "degrees": 196,
+          "speed": 5.73,
+          "gust": 16.26
+        },
+        "weatherDescription": {
+          "text": "light rain",
+          "type": "Rain"
+        },
+        "weatherSummary": {
+          "humidity": 93,
+          "pressure": 1015,
+          "temperature": 7.57,
+          "temperatureMax": 7.57,
+          "temperatureMin": 7.57,
+          "temperatureFeelsLike": 4.26
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671418800,
+        "weatherWind": {
+          "degrees": 190,
+          "speed": 5.77,
+          "gust": 16.47
+        },
+        "weatherDescription": {
+          "text": "light rain",
+          "type": "Rain"
+        },
+        "weatherSummary": {
+          "humidity": 94,
+          "pressure": 1014,
+          "temperature": 8.19,
+          "temperatureMax": 8.19,
+          "temperatureMin": 8.19,
+          "temperatureFeelsLike": 5.03
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671429600,
+        "weatherWind": {
+          "degrees": 188,
+          "speed": 5.34,
+          "gust": 16.46
+        },
+        "weatherDescription": {
+          "text": "light rain",
+          "type": "Rain"
+        },
+        "weatherSummary": {
+          "humidity": 94,
+          "pressure": 1013,
+          "temperature": 8.52,
+          "temperatureMax": 8.52,
+          "temperatureMin": 8.52,
+          "temperatureFeelsLike": 5.6
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671440400,
+        "weatherWind": {
+          "degrees": 186,
+          "speed": 5.64,
+          "gust": 17.1
+        },
+        "weatherDescription": {
+          "text": "light rain",
+          "type": "Rain"
+        },
+        "weatherSummary": {
+          "humidity": 89,
+          "pressure": 1013,
+          "temperature": 9.41,
+          "temperatureMax": 9.41,
+          "temperatureMin": 9.41,
+          "temperatureFeelsLike": 6.62
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671451200,
+        "weatherWind": {
+          "degrees": 199,
+          "speed": 6.81,
+          "gust": 18.27
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 82,
+          "pressure": 1012,
+          "temperature": 11.18,
+          "temperatureMax": 11.18,
+          "temperatureMin": 11.18,
+          "temperatureFeelsLike": 10.49
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671462000,
+        "weatherWind": {
+          "degrees": 195,
+          "speed": 6.63,
+          "gust": 16.46
+        },
+        "weatherDescription": {
+          "text": "light rain",
+          "type": "Rain"
+        },
+        "weatherSummary": {
+          "humidity": 80,
+          "pressure": 1011,
+          "temperature": 11.72,
+          "temperatureMax": 11.72,
+          "temperatureMin": 11.72,
+          "temperatureFeelsLike": 11.04
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671472800,
+        "weatherWind": {
+          "degrees": 197,
+          "speed": 6.56,
+          "gust": 17.32
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 74,
+          "pressure": 1011,
+          "temperature": 12.61,
+          "temperatureMax": 12.61,
+          "temperatureMin": 12.61,
+          "temperatureFeelsLike": 11.86
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671483600,
+        "weatherWind": {
+          "degrees": 193,
+          "speed": 5.66,
+          "gust": 16.49
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 77,
+          "pressure": 1011,
+          "temperature": 12.34,
+          "temperatureMax": 12.34,
+          "temperatureMin": 12.34,
+          "temperatureFeelsLike": 11.64
+        }
+      }
+    ],
+    "date": "2022-12-18T23:00:00.000Z"
+  },
+  {
+    "weatherDataSource": "OPEN_WEATHER_MAP",
+    "cityId": 2,
+    "sunset": 1671032369,
+    "sunrise": 1670999397,
+    "timestamps": [
+      {
+        "cloudiness": 58,
+        "timestamp": 1671062400,
+        "weatherWind": {
+          "degrees": 14,
+          "speed": 1.87,
+          "gust": 2.7
+        },
+        "weatherDescription": {
+          "text": "broken clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 80,
+          "pressure": 1004,
+          "temperature": 9.38,
+          "temperatureMax": 9.75,
+          "temperatureMin": 9.38,
+          "temperatureFeelsLike": 8.58
+        }
+      },
+      {
+        "cloudiness": 80,
+        "timestamp": 1671073200,
+        "weatherWind": {
+          "degrees": 19,
+          "speed": 1.46,
+          "gust": 1.54
+        },
+        "weatherDescription": {
+          "text": "broken clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 84,
+          "pressure": 1006,
+          "temperature": 9.24,
+          "temperatureMax": 9.26,
+          "temperatureMin": 9.24,
+          "temperatureFeelsLike": 8.83
+        }
+      },
+      {
+        "cloudiness": 82,
+        "timestamp": 1671084000,
+        "weatherWind": {
+          "degrees": 72,
+          "speed": 1.47,
+          "gust": 1.47
+        },
+        "weatherDescription": {
+          "text": "broken clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 86,
+          "pressure": 1008,
+          "temperature": 9.96,
+          "temperatureMax": 9.96,
+          "temperatureMin": 9.96,
+          "temperatureFeelsLike": 9.63
+        }
+      },
+      {
+        "cloudiness": 99,
+        "timestamp": 1671094800,
+        "weatherWind": {
+          "degrees": 125,
+          "speed": 1.31,
+          "gust": 2.59
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 81,
+          "pressure": 1009,
+          "temperature": 13.13,
+          "temperatureMax": 13.13,
+          "temperatureMin": 13.13,
+          "temperatureFeelsLike": 12.61
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671105600,
+        "weatherWind": {
+          "degrees": 139,
+          "speed": 4.5,
+          "gust": 10.68
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 76,
+          "pressure": 1007,
+          "temperature": 15.25,
+          "temperatureMax": 15.25,
+          "temperatureMin": 15.25,
+          "temperatureFeelsLike": 14.81
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671116400,
+        "weatherWind": {
+          "degrees": 145,
+          "speed": 6.99,
+          "gust": 13.72
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 79,
+          "pressure": 1006,
+          "temperature": 15.07,
+          "temperatureMax": 15.07,
+          "temperatureMin": 15.07,
+          "temperatureFeelsLike": 14.7
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671127200,
+        "weatherWind": {
+          "degrees": 141,
+          "speed": 7.83,
+          "gust": 15.81
+        },
+        "weatherDescription": {
+          "text": "light rain",
+          "type": "Rain"
+        },
+        "weatherSummary": {
+          "humidity": 82,
+          "pressure": 1004,
+          "temperature": 15.32,
+          "temperatureMax": 15.32,
+          "temperatureMin": 15.32,
+          "temperatureFeelsLike": 15.05
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671138000,
+        "weatherWind": {
+          "degrees": 161,
+          "speed": 7.83,
+          "gust": 14.44
+        },
+        "weatherDescription": {
+          "text": "light rain",
+          "type": "Rain"
+        },
+        "weatherSummary": {
+          "humidity": 88,
+          "pressure": 1005,
+          "temperature": 15.52,
+          "temperatureMax": 15.52,
+          "temperatureMin": 15.52,
+          "temperatureFeelsLike": 15.43
+        }
+      }
+    ],
+    "date": "2022-12-14T23:00:00.000Z"
+  },
+  {
+    "weatherDataSource": "OPEN_WEATHER_MAP",
+    "cityId": 2,
+    "sunset": 1671032369,
+    "sunrise": 1670999397,
+    "timestamps": [
+      {
+        "cloudiness": 100,
+        "timestamp": 1671148800,
+        "weatherWind": {
+          "degrees": 239,
+          "speed": 5.34,
+          "gust": 10.26
+        },
+        "weatherDescription": {
+          "text": "heavy intensity rain",
+          "type": "Rain"
+        },
+        "weatherSummary": {
+          "humidity": 94,
+          "pressure": 1006,
+          "temperature": 14.56,
+          "temperatureMax": 14.56,
+          "temperatureMin": 14.56,
+          "temperatureFeelsLike": 14.53
+        }
+      },
+      {
+        "cloudiness": 73,
+        "timestamp": 1671159600,
+        "weatherWind": {
+          "degrees": 132,
+          "speed": 1.84,
+          "gust": 2.66
+        },
+        "weatherDescription": {
+          "text": "light rain",
+          "type": "Rain"
+        },
+        "weatherSummary": {
+          "humidity": 90,
+          "pressure": 1006,
+          "temperature": 12.53,
+          "temperatureMax": 12.53,
+          "temperatureMin": 12.53,
+          "temperatureFeelsLike": 12.19
+        }
+      },
+      {
+        "cloudiness": 70,
+        "timestamp": 1671170400,
+        "weatherWind": {
+          "degrees": 139,
+          "speed": 2.81,
+          "gust": 5.04
+        },
+        "weatherDescription": {
+          "text": "broken clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 87,
+          "pressure": 1007,
+          "temperature": 12.36,
+          "temperatureMax": 12.36,
+          "temperatureMin": 12.36,
+          "temperatureFeelsLike": 11.92
+        }
+      },
+      {
+        "cloudiness": 93,
+        "timestamp": 1671181200,
+        "weatherWind": {
+          "degrees": 148,
+          "speed": 4.14,
+          "gust": 9.9
+        },
+        "weatherDescription": {
+          "text": "light rain",
+          "type": "Rain"
+        },
+        "weatherSummary": {
+          "humidity": 83,
+          "pressure": 1008,
+          "temperature": 14.49,
+          "temperatureMax": 14.49,
+          "temperatureMin": 14.49,
+          "temperatureFeelsLike": 14.16
+        }
+      },
+      {
+        "cloudiness": 64,
+        "timestamp": 1671192000,
+        "weatherWind": {
+          "degrees": 178,
+          "speed": 5.43,
+          "gust": 7.98
+        },
+        "weatherDescription": {
+          "text": "light rain",
+          "type": "Rain"
+        },
+        "weatherSummary": {
+          "humidity": 74,
+          "pressure": 1008,
+          "temperature": 16.9,
+          "temperatureMax": 16.9,
+          "temperatureMin": 16.9,
+          "temperatureFeelsLike": 16.58
+        }
+      },
+      {
+        "cloudiness": 62,
+        "timestamp": 1671202800,
+        "weatherWind": {
+          "degrees": 161,
+          "speed": 3.73,
+          "gust": 7.63
+        },
+        "weatherDescription": {
+          "text": "light rain",
+          "type": "Rain"
+        },
+        "weatherSummary": {
+          "humidity": 80,
+          "pressure": 1008,
+          "temperature": 15.15,
+          "temperatureMax": 15.15,
+          "temperatureMin": 15.15,
+          "temperatureFeelsLike": 14.81
+        }
+      },
+      {
+        "cloudiness": 71,
+        "timestamp": 1671213600,
+        "weatherWind": {
+          "degrees": 151,
+          "speed": 3.02,
+          "gust": 6.91
+        },
+        "weatherDescription": {
+          "text": "light rain",
+          "type": "Rain"
+        },
+        "weatherSummary": {
+          "humidity": 86,
+          "pressure": 1009,
+          "temperature": 13.52,
+          "temperatureMax": 13.52,
+          "temperatureMin": 13.52,
+          "temperatureFeelsLike": 13.17
+        }
+      },
+      {
+        "cloudiness": 87,
+        "timestamp": 1671224400,
+        "weatherWind": {
+          "degrees": 165,
+          "speed": 2.57,
+          "gust": 5.39
+        },
+        "weatherDescription": {
+          "text": "light rain",
+          "type": "Rain"
+        },
+        "weatherSummary": {
+          "humidity": 92,
+          "pressure": 1011,
+          "temperature": 12.99,
+          "temperatureMax": 12.99,
+          "temperatureMin": 12.99,
+          "temperatureFeelsLike": 12.75
+        }
+      }
+    ],
+    "date": "2022-12-15T23:00:00.000Z"
+  },
+  {
+    "weatherDataSource": "OPEN_WEATHER_MAP",
+    "cityId": 2,
+    "sunset": 1671032369,
+    "sunrise": 1670999397,
+    "timestamps": [
+      {
+        "cloudiness": 93,
+        "timestamp": 1671235200,
+        "weatherWind": {
+          "degrees": 148,
+          "speed": 2.63,
+          "gust": 6.65
+        },
+        "weatherDescription": {
+          "text": "light rain",
+          "type": "Rain"
+        },
+        "weatherSummary": {
+          "humidity": 93,
+          "pressure": 1011,
+          "temperature": 13.15,
+          "temperatureMax": 13.15,
+          "temperatureMin": 13.15,
+          "temperatureFeelsLike": 12.95
+        }
+      },
+      {
+        "cloudiness": 71,
+        "timestamp": 1671246000,
+        "weatherWind": {
+          "degrees": 152,
+          "speed": 1.61,
+          "gust": 2.94
+        },
+        "weatherDescription": {
+          "text": "light rain",
+          "type": "Rain"
+        },
+        "weatherSummary": {
+          "humidity": 94,
+          "pressure": 1012,
+          "temperature": 11.94,
+          "temperatureMax": 11.94,
+          "temperatureMin": 11.94,
+          "temperatureFeelsLike": 11.64
+        }
+      },
+      {
+        "cloudiness": 48,
+        "timestamp": 1671256800,
+        "weatherWind": {
+          "degrees": 172,
+          "speed": 1.58,
+          "gust": 2.08
+        },
+        "weatherDescription": {
+          "text": "light rain",
+          "type": "Rain"
+        },
+        "weatherSummary": {
+          "humidity": 94,
+          "pressure": 1014,
+          "temperature": 11.35,
+          "temperatureMax": 11.35,
+          "temperatureMin": 11.35,
+          "temperatureFeelsLike": 11
+        }
+      },
+      {
+        "cloudiness": 53,
+        "timestamp": 1671267600,
+        "weatherWind": {
+          "degrees": 208,
+          "speed": 2.14,
+          "gust": 4.16
+        },
+        "weatherDescription": {
+          "text": "light rain",
+          "type": "Rain"
+        },
+        "weatherSummary": {
+          "humidity": 79,
+          "pressure": 1016,
+          "temperature": 13.84,
+          "temperatureMax": 13.84,
+          "temperatureMin": 13.84,
+          "temperatureFeelsLike": 13.34
+        }
+      },
+      {
+        "cloudiness": 71,
+        "timestamp": 1671278400,
+        "weatherWind": {
+          "degrees": 196,
+          "speed": 3.4,
+          "gust": 4.59
+        },
+        "weatherDescription": {
+          "text": "broken clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 68,
+          "pressure": 1016,
+          "temperature": 14.78,
+          "temperatureMax": 14.78,
+          "temperatureMin": 14.78,
+          "temperatureFeelsLike": 14.09
+        }
+      },
+      {
+        "cloudiness": 77,
+        "timestamp": 1671289200,
+        "weatherWind": {
+          "degrees": 164,
+          "speed": 2.48,
+          "gust": 4.58
+        },
+        "weatherDescription": {
+          "text": "light rain",
+          "type": "Rain"
+        },
+        "weatherSummary": {
+          "humidity": 75,
+          "pressure": 1017,
+          "temperature": 13.68,
+          "temperatureMax": 13.68,
+          "temperatureMin": 13.68,
+          "temperatureFeelsLike": 13.06
+        }
+      },
+      {
+        "cloudiness": 42,
+        "timestamp": 1671300000,
+        "weatherWind": {
+          "degrees": 119,
+          "speed": 1.78,
+          "gust": 3.1
+        },
+        "weatherDescription": {
+          "text": "scattered clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 84,
+          "pressure": 1020,
+          "temperature": 11.74,
+          "temperatureMax": 11.74,
+          "temperatureMin": 11.74,
+          "temperatureFeelsLike": 11.16
+        }
+      },
+      {
+        "cloudiness": 41,
+        "timestamp": 1671310800,
+        "weatherWind": {
+          "degrees": 81,
+          "speed": 1.4,
+          "gust": 3.04
+        },
+        "weatherDescription": {
+          "text": "scattered clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 83,
+          "pressure": 1021,
+          "temperature": 11.79,
+          "temperatureMax": 11.79,
+          "temperatureMin": 11.79,
+          "temperatureFeelsLike": 11.19
+        }
+      }
+    ],
+    "date": "2022-12-16T23:00:00.000Z"
+  },
+  {
+    "weatherDataSource": "OPEN_WEATHER_MAP",
+    "cityId": 2,
+    "sunset": 1671032369,
+    "sunrise": 1670999397,
+    "timestamps": [
+      {
+        "cloudiness": 45,
+        "timestamp": 1671321600,
+        "weatherWind": {
+          "degrees": 50,
+          "speed": 1.63,
+          "gust": 2.35
+        },
+        "weatherDescription": {
+          "text": "scattered clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 83,
+          "pressure": 1023,
+          "temperature": 11.1,
+          "temperatureMax": 11.1,
+          "temperatureMin": 11.1,
+          "temperatureFeelsLike": 10.43
+        }
+      },
+      {
+        "cloudiness": 17,
+        "timestamp": 1671332400,
+        "weatherWind": {
+          "degrees": 30,
+          "speed": 1.76,
+          "gust": 1.95
+        },
+        "weatherDescription": {
+          "text": "few clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 84,
+          "pressure": 1024,
+          "temperature": 9.92,
+          "temperatureMax": 9.92,
+          "temperatureMin": 9.92,
+          "temperatureFeelsLike": 9.31
+        }
+      },
+      {
+        "cloudiness": 8,
+        "timestamp": 1671343200,
+        "weatherWind": {
+          "degrees": 22,
+          "speed": 2.01,
+          "gust": 2.4
+        },
+        "weatherDescription": {
+          "text": "clear sky",
+          "type": "Clear"
+        },
+        "weatherSummary": {
+          "humidity": 86,
+          "pressure": 1026,
+          "temperature": 9.22,
+          "temperatureMax": 9.22,
+          "temperatureMin": 9.22,
+          "temperatureFeelsLike": 8.28
+        }
+      },
+      {
+        "cloudiness": 1,
+        "timestamp": 1671354000,
+        "weatherWind": {
+          "degrees": 31,
+          "speed": 1.83,
+          "gust": 2.32
+        },
+        "weatherDescription": {
+          "text": "clear sky",
+          "type": "Clear"
+        },
+        "weatherSummary": {
+          "humidity": 75,
+          "pressure": 1028,
+          "temperature": 12.06,
+          "temperatureMax": 12.06,
+          "temperatureMin": 12.06,
+          "temperatureFeelsLike": 11.28
+        }
+      },
+      {
+        "cloudiness": 0,
+        "timestamp": 1671364800,
+        "weatherWind": {
+          "degrees": 5,
+          "speed": 1.36,
+          "gust": 1.16
+        },
+        "weatherDescription": {
+          "text": "clear sky",
+          "type": "Clear"
+        },
+        "weatherSummary": {
+          "humidity": 61,
+          "pressure": 1027,
+          "temperature": 15.18,
+          "temperatureMax": 15.18,
+          "temperatureMin": 15.18,
+          "temperatureFeelsLike": 14.35
+        }
+      },
+      {
+        "cloudiness": 0,
+        "timestamp": 1671375600,
+        "weatherWind": {
+          "degrees": 1,
+          "speed": 1.25,
+          "gust": 1.84
+        },
+        "weatherDescription": {
+          "text": "clear sky",
+          "type": "Clear"
+        },
+        "weatherSummary": {
+          "humidity": 69,
+          "pressure": 1028,
+          "temperature": 14.02,
+          "temperatureMax": 14.02,
+          "temperatureMin": 14.02,
+          "temperatureFeelsLike": 13.28
+        }
+      },
+      {
+        "cloudiness": 1,
+        "timestamp": 1671386400,
+        "weatherWind": {
+          "degrees": 7,
+          "speed": 1.8,
+          "gust": 1.8
+        },
+        "weatherDescription": {
+          "text": "clear sky",
+          "type": "Clear"
+        },
+        "weatherSummary": {
+          "humidity": 81,
+          "pressure": 1029,
+          "temperature": 11.39,
+          "temperatureMax": 11.39,
+          "temperatureMin": 11.39,
+          "temperatureFeelsLike": 10.7
+        }
+      },
+      {
+        "cloudiness": 30,
+        "timestamp": 1671397200,
+        "weatherWind": {
+          "degrees": 27,
+          "speed": 1.88,
+          "gust": 2.37
+        },
+        "weatherDescription": {
+          "text": "scattered clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 85,
+          "pressure": 1030,
+          "temperature": 10.18,
+          "temperatureMax": 10.18,
+          "temperatureMin": 10.18,
+          "temperatureFeelsLike": 9.47
+        }
+      }
+    ],
+    "date": "2022-12-17T23:00:00.000Z"
+  },
+  {
+    "weatherDataSource": "OPEN_WEATHER_MAP",
+    "cityId": 2,
+    "sunset": 1671032369,
+    "sunrise": 1670999397,
+    "timestamps": [
+      {
+        "cloudiness": 33,
+        "timestamp": 1671408000,
+        "weatherWind": {
+          "degrees": 25,
+          "speed": 2.04,
+          "gust": 2.6
+        },
+        "weatherDescription": {
+          "text": "scattered clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 86,
+          "pressure": 1030,
+          "temperature": 9.28,
+          "temperatureMax": 9.28,
+          "temperatureMin": 9.28,
+          "temperatureFeelsLike": 8.32
+        }
+      },
+      {
+        "cloudiness": 2,
+        "timestamp": 1671418800,
+        "weatherWind": {
+          "degrees": 19,
+          "speed": 2.04,
+          "gust": 2.62
+        },
+        "weatherDescription": {
+          "text": "clear sky",
+          "type": "Clear"
+        },
+        "weatherSummary": {
+          "humidity": 86,
+          "pressure": 1030,
+          "temperature": 8.64,
+          "temperatureMax": 8.64,
+          "temperatureMin": 8.64,
+          "temperatureFeelsLike": 7.57
+        }
+      },
+      {
+        "cloudiness": 12,
+        "timestamp": 1671429600,
+        "weatherWind": {
+          "degrees": 29,
+          "speed": 1.65,
+          "gust": 1.76
+        },
+        "weatherDescription": {
+          "text": "few clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 85,
+          "pressure": 1030,
+          "temperature": 8.14,
+          "temperatureMax": 8.14,
+          "temperatureMin": 8.14,
+          "temperatureFeelsLike": 7.36
+        }
+      },
+      {
+        "cloudiness": 12,
+        "timestamp": 1671440400,
+        "weatherWind": {
+          "degrees": 32,
+          "speed": 1.36,
+          "gust": 1.69
+        },
+        "weatherDescription": {
+          "text": "few clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 72,
+          "pressure": 1031,
+          "temperature": 11.2,
+          "temperatureMax": 11.2,
+          "temperatureMin": 11.2,
+          "temperatureFeelsLike": 10.26
+        }
+      },
+      {
+        "cloudiness": 9,
+        "timestamp": 1671451200,
+        "weatherWind": {
+          "degrees": 338,
+          "speed": 0.85,
+          "gust": 1.09
+        },
+        "weatherDescription": {
+          "text": "clear sky",
+          "type": "Clear"
+        },
+        "weatherSummary": {
+          "humidity": 61,
+          "pressure": 1030,
+          "temperature": 14.23,
+          "temperatureMax": 14.23,
+          "temperatureMin": 14.23,
+          "temperatureFeelsLike": 13.3
+        }
+      },
+      {
+        "cloudiness": 7,
+        "timestamp": 1671462000,
+        "weatherWind": {
+          "degrees": 310,
+          "speed": 0.51,
+          "gust": 0.96
+        },
+        "weatherDescription": {
+          "text": "clear sky",
+          "type": "Clear"
+        },
+        "weatherSummary": {
+          "humidity": 68,
+          "pressure": 1029,
+          "temperature": 13.27,
+          "temperatureMax": 13.27,
+          "temperatureMin": 13.27,
+          "temperatureFeelsLike": 12.43
+        }
+      },
+      {
+        "cloudiness": 24,
+        "timestamp": 1671472800,
+        "weatherWind": {
+          "degrees": 353,
+          "speed": 1.25,
+          "gust": 1.24
+        },
+        "weatherDescription": {
+          "text": "few clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 79,
+          "pressure": 1029,
+          "temperature": 10.86,
+          "temperatureMax": 10.86,
+          "temperatureMin": 10.86,
+          "temperatureFeelsLike": 10.06
+        }
+      },
+      {
+        "cloudiness": 9,
+        "timestamp": 1671483600,
+        "weatherWind": {
+          "degrees": 19,
+          "speed": 1.56,
+          "gust": 1.54
+        },
+        "weatherDescription": {
+          "text": "clear sky",
+          "type": "Clear"
+        },
+        "weatherSummary": {
+          "humidity": 84,
+          "pressure": 1029,
+          "temperature": 9.77,
+          "temperatureMax": 9.77,
+          "temperatureMin": 9.77,
+          "temperatureFeelsLike": 9.32
+        }
+      }
+    ],
+    "date": "2022-12-18T23:00:00.000Z"
+  },
+  {
+    "weatherDataSource": "OPEN_WEATHER_MAP",
+    "cityId": 3,
+    "sunset": 1671032491,
+    "sunrise": 1671001693,
+    "timestamps": [
+      {
+        "cloudiness": 81,
+        "timestamp": 1671062400,
+        "weatherWind": {
+          "degrees": 187,
+          "speed": 1.9,
+          "gust": 2.65
+        },
+        "weatherDescription": {
+          "text": "light rain",
+          "type": "Rain"
+        },
+        "weatherSummary": {
+          "humidity": 97,
+          "pressure": 1002,
+          "temperature": 3.41,
+          "temperatureMax": 3.44,
+          "temperatureMin": 3.41,
+          "temperatureFeelsLike": 1.63
+        }
+      },
+      {
+        "cloudiness": 89,
+        "timestamp": 1671073200,
+        "weatherWind": {
+          "degrees": 128,
+          "speed": 1.37,
+          "gust": 1.6
+        },
+        "weatherDescription": {
+          "text": "light rain",
+          "type": "Rain"
+        },
+        "weatherSummary": {
+          "humidity": 97,
+          "pressure": 1003,
+          "temperature": 3.54,
+          "temperatureMax": 3.62,
+          "temperatureMin": 3.54,
+          "temperatureFeelsLike": 2.47
+        }
+      },
+      {
+        "cloudiness": 95,
+        "timestamp": 1671084000,
+        "weatherWind": {
+          "degrees": 104,
+          "speed": 0.88,
+          "gust": 2.02
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 98,
+          "pressure": 1004,
+          "temperature": 2.71,
+          "temperatureMax": 2.71,
+          "temperatureMin": 2.71,
+          "temperatureFeelsLike": 2.71
+        }
+      },
+      {
+        "cloudiness": 99,
+        "timestamp": 1671094800,
+        "weatherWind": {
+          "degrees": 74,
+          "speed": 1.39,
+          "gust": 2.76
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 97,
+          "pressure": 1005,
+          "temperature": 3.46,
+          "temperatureMax": 3.46,
+          "temperatureMin": 3.46,
+          "temperatureFeelsLike": 2.35
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671105600,
+        "weatherWind": {
+          "degrees": 38,
+          "speed": 2.12,
+          "gust": 3.75
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 98,
+          "pressure": 1004,
+          "temperature": 4.91,
+          "temperatureMax": 4.91,
+          "temperatureMin": 4.91,
+          "temperatureFeelsLike": 3.14
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671116400,
+        "weatherWind": {
+          "degrees": 41,
+          "speed": 2.5,
+          "gust": 6.14
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 99,
+          "pressure": 1002,
+          "temperature": 3.56,
+          "temperatureMax": 3.56,
+          "temperatureMin": 3.56,
+          "temperatureFeelsLike": 1.19
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671127200,
+        "weatherWind": {
+          "degrees": 33,
+          "speed": 2.05,
+          "gust": 6.22
+        },
+        "weatherDescription": {
+          "text": "light rain",
+          "type": "Rain"
+        },
+        "weatherSummary": {
+          "humidity": 98,
+          "pressure": 1002,
+          "temperature": 2.48,
+          "temperatureMax": 2.48,
+          "temperatureMin": 2.48,
+          "temperatureFeelsLike": 0.38
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671138000,
+        "weatherWind": {
+          "degrees": 45,
+          "speed": 1.83,
+          "gust": 5.2
+        },
+        "weatherDescription": {
+          "text": "light snow",
+          "type": "Snow"
+        },
+        "weatherSummary": {
+          "humidity": 99,
+          "pressure": 1004,
+          "temperature": 1.78,
+          "temperatureMax": 1.78,
+          "temperatureMin": 1.78,
+          "temperatureFeelsLike": -0.18
+        }
+      }
+    ],
+    "date": "2022-12-14T23:00:00.000Z"
+  },
+  {
+    "weatherDataSource": "OPEN_WEATHER_MAP",
+    "cityId": 3,
+    "sunset": 1671032491,
+    "sunrise": 1671001693,
+    "timestamps": [
+      {
+        "cloudiness": 100,
+        "timestamp": 1671148800,
+        "weatherWind": {
+          "degrees": 34,
+          "speed": 2,
+          "gust": 5.42
+        },
+        "weatherDescription": {
+          "text": "snow",
+          "type": "Snow"
+        },
+        "weatherSummary": {
+          "humidity": 99,
+          "pressure": 1004,
+          "temperature": 1.18,
+          "temperatureMax": 1.18,
+          "temperatureMin": 1.18,
+          "temperatureFeelsLike": -1.08
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671159600,
+        "weatherWind": {
+          "degrees": 51,
+          "speed": 1.54,
+          "gust": 4.78
+        },
+        "weatherDescription": {
+          "text": "snow",
+          "type": "Snow"
+        },
+        "weatherSummary": {
+          "humidity": 99,
+          "pressure": 1006,
+          "temperature": 0.7,
+          "temperatureMax": 0.7,
+          "temperatureMin": 0.7,
+          "temperatureFeelsLike": -1.02
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671170400,
+        "weatherWind": {
+          "degrees": 27,
+          "speed": 1.81,
+          "gust": 5.71
+        },
+        "weatherDescription": {
+          "text": "snow",
+          "type": "Snow"
+        },
+        "weatherSummary": {
+          "humidity": 99,
+          "pressure": 1008,
+          "temperature": 0.04,
+          "temperatureMax": 0.04,
+          "temperatureMin": 0.04,
+          "temperatureFeelsLike": -2.16
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671181200,
+        "weatherWind": {
+          "degrees": 34,
+          "speed": 2.3,
+          "gust": 6.09
+        },
+        "weatherDescription": {
+          "text": "snow",
+          "type": "Snow"
+        },
+        "weatherSummary": {
+          "humidity": 98,
+          "pressure": 1011,
+          "temperature": -0.14,
+          "temperatureMax": -0.14,
+          "temperatureMin": -0.14,
+          "temperatureFeelsLike": -2.97
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671192000,
+        "weatherWind": {
+          "degrees": 36,
+          "speed": 2.79,
+          "gust": 4.93
+        },
+        "weatherDescription": {
+          "text": "light snow",
+          "type": "Snow"
+        },
+        "weatherSummary": {
+          "humidity": 95,
+          "pressure": 1012,
+          "temperature": 0.43,
+          "temperatureMax": 0.43,
+          "temperatureMin": 0.43,
+          "temperatureFeelsLike": -2.79
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671202800,
+        "weatherWind": {
+          "degrees": 36,
+          "speed": 2.41,
+          "gust": 5.81
+        },
+        "weatherDescription": {
+          "text": "light snow",
+          "type": "Snow"
+        },
+        "weatherSummary": {
+          "humidity": 97,
+          "pressure": 1014,
+          "temperature": -0.09,
+          "temperatureMax": -0.09,
+          "temperatureMin": -0.09,
+          "temperatureFeelsLike": -3.03
+        }
+      },
+      {
+        "cloudiness": 96,
+        "timestamp": 1671213600,
+        "weatherWind": {
+          "degrees": 36,
+          "speed": 2.03,
+          "gust": 5.38
+        },
+        "weatherDescription": {
+          "text": "light snow",
+          "type": "Snow"
+        },
+        "weatherSummary": {
+          "humidity": 98,
+          "pressure": 1018,
+          "temperature": -3.36,
+          "temperatureMax": -3.36,
+          "temperatureMin": -3.36,
+          "temperatureFeelsLike": -6.41
+        }
+      },
+      {
+        "cloudiness": 72,
+        "timestamp": 1671224400,
+        "weatherWind": {
+          "degrees": 59,
+          "speed": 1.26,
+          "gust": 2.73
+        },
+        "weatherDescription": {
+          "text": "broken clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 99,
+          "pressure": 1021,
+          "temperature": -6.57,
+          "temperatureMax": -6.57,
+          "temperatureMin": -6.57,
+          "temperatureFeelsLike": -6.57
+        }
+      }
+    ],
+    "date": "2022-12-15T23:00:00.000Z"
+  },
+  {
+    "weatherDataSource": "OPEN_WEATHER_MAP",
+    "cityId": 3,
+    "sunset": 1671032491,
+    "sunrise": 1671001693,
+    "timestamps": [
+      {
+        "cloudiness": 75,
+        "timestamp": 1671235200,
+        "weatherWind": {
+          "degrees": 85,
+          "speed": 1.07,
+          "gust": 1.88
+        },
+        "weatherDescription": {
+          "text": "broken clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 99,
+          "pressure": 1023,
+          "temperature": -8.18,
+          "temperatureMax": -8.18,
+          "temperatureMin": -8.18,
+          "temperatureFeelsLike": -8.18
+        }
+      },
+      {
+        "cloudiness": 84,
+        "timestamp": 1671246000,
+        "weatherWind": {
+          "degrees": 95,
+          "speed": 1.09,
+          "gust": 1.8
+        },
+        "weatherDescription": {
+          "text": "broken clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 97,
+          "pressure": 1025,
+          "temperature": -9.34,
+          "temperatureMax": -9.34,
+          "temperatureMin": -9.34,
+          "temperatureFeelsLike": -9.34
+        }
+      },
+      {
+        "cloudiness": 70,
+        "timestamp": 1671256800,
+        "weatherWind": {
+          "degrees": 96,
+          "speed": 1.03,
+          "gust": 1.88
+        },
+        "weatherDescription": {
+          "text": "broken clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 97,
+          "pressure": 1026,
+          "temperature": -9.7,
+          "temperatureMax": -9.7,
+          "temperatureMin": -9.7,
+          "temperatureFeelsLike": -9.7
+        }
+      },
+      {
+        "cloudiness": 50,
+        "timestamp": 1671267600,
+        "weatherWind": {
+          "degrees": 52,
+          "speed": 1.32,
+          "gust": 2.94
+        },
+        "weatherDescription": {
+          "text": "scattered clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 93,
+          "pressure": 1026,
+          "temperature": -5.79,
+          "temperatureMax": -5.79,
+          "temperatureMin": -5.79,
+          "temperatureFeelsLike": -5.79
+        }
+      },
+      {
+        "cloudiness": 47,
+        "timestamp": 1671278400,
+        "weatherWind": {
+          "degrees": 32,
+          "speed": 2.21,
+          "gust": 3.09
+        },
+        "weatherDescription": {
+          "text": "scattered clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 91,
+          "pressure": 1025,
+          "temperature": -1.67,
+          "temperatureMax": -1.67,
+          "temperatureMin": -1.67,
+          "temperatureFeelsLike": -4.67
+        }
+      },
+      {
+        "cloudiness": 82,
+        "timestamp": 1671289200,
+        "weatherWind": {
+          "degrees": 39,
+          "speed": 1.8,
+          "gust": 3.34
+        },
+        "weatherDescription": {
+          "text": "broken clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 95,
+          "pressure": 1025,
+          "temperature": -2.68,
+          "temperatureMax": -2.68,
+          "temperatureMin": -2.68,
+          "temperatureFeelsLike": -5.29
+        }
+      },
+      {
+        "cloudiness": 90,
+        "timestamp": 1671300000,
+        "weatherWind": {
+          "degrees": 52,
+          "speed": 0.96,
+          "gust": 2.32
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 97,
+          "pressure": 1028,
+          "temperature": -5.42,
+          "temperatureMax": -5.42,
+          "temperatureMin": -5.42,
+          "temperatureFeelsLike": -5.42
+        }
+      },
+      {
+        "cloudiness": 96,
+        "timestamp": 1671310800,
+        "weatherWind": {
+          "degrees": 123,
+          "speed": 0.69,
+          "gust": 1.45
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 97,
+          "pressure": 1029,
+          "temperature": -7.74,
+          "temperatureMax": -7.74,
+          "temperatureMin": -7.74,
+          "temperatureFeelsLike": -7.74
+        }
+      }
+    ],
+    "date": "2022-12-16T23:00:00.000Z"
+  },
+  {
+    "weatherDataSource": "OPEN_WEATHER_MAP",
+    "cityId": 3,
+    "sunset": 1671032491,
+    "sunrise": 1671001693,
+    "timestamps": [
+      {
+        "cloudiness": 83,
+        "timestamp": 1671321600,
+        "weatherWind": {
+          "degrees": 148,
+          "speed": 1.4,
+          "gust": 1.38
+        },
+        "weatherDescription": {
+          "text": "broken clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 95,
+          "pressure": 1030,
+          "temperature": -9.09,
+          "temperatureMax": -9.09,
+          "temperatureMin": -9.09,
+          "temperatureFeelsLike": -11.91
+        }
+      },
+      {
+        "cloudiness": 63,
+        "timestamp": 1671332400,
+        "weatherWind": {
+          "degrees": 158,
+          "speed": 1.47,
+          "gust": 1.28
+        },
+        "weatherDescription": {
+          "text": "broken clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 95,
+          "pressure": 1031,
+          "temperature": -9.46,
+          "temperatureMax": -9.46,
+          "temperatureMin": -9.46,
+          "temperatureFeelsLike": -12.48
+        }
+      },
+      {
+        "cloudiness": 66,
+        "timestamp": 1671343200,
+        "weatherWind": {
+          "degrees": 154,
+          "speed": 1.06,
+          "gust": 1.14
+        },
+        "weatherDescription": {
+          "text": "broken clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 95,
+          "pressure": 1030,
+          "temperature": -9.59,
+          "temperatureMax": -9.59,
+          "temperatureMin": -9.59,
+          "temperatureFeelsLike": -9.59
+        }
+      },
+      {
+        "cloudiness": 97,
+        "timestamp": 1671354000,
+        "weatherWind": {
+          "degrees": 216,
+          "speed": 0.85,
+          "gust": 1.05
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 88,
+          "pressure": 1029,
+          "temperature": -4.13,
+          "temperatureMax": -4.13,
+          "temperatureMin": -4.13,
+          "temperatureFeelsLike": -4.13
+        }
+      },
+      {
+        "cloudiness": 98,
+        "timestamp": 1671364800,
+        "weatherWind": {
+          "degrees": 258,
+          "speed": 1.05,
+          "gust": 1.83
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 87,
+          "pressure": 1026,
+          "temperature": 0.36,
+          "temperatureMax": 0.36,
+          "temperatureMin": 0.36,
+          "temperatureFeelsLike": 0.36
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671375600,
+        "weatherWind": {
+          "degrees": 248,
+          "speed": 0.58,
+          "gust": 0.77
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 95,
+          "pressure": 1026,
+          "temperature": 0.02,
+          "temperatureMax": 0.02,
+          "temperatureMin": 0.02,
+          "temperatureFeelsLike": 0.02
+        }
+      },
+      {
+        "cloudiness": 97,
+        "timestamp": 1671386400,
+        "weatherWind": {
+          "degrees": 159,
+          "speed": 1.39,
+          "gust": 1.34
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 94,
+          "pressure": 1027,
+          "temperature": -2.31,
+          "temperatureMax": -2.31,
+          "temperatureMin": -2.31,
+          "temperatureFeelsLike": -4.19
+        }
+      },
+      {
+        "cloudiness": 97,
+        "timestamp": 1671397200,
+        "weatherWind": {
+          "degrees": 162,
+          "speed": 1.53,
+          "gust": 1.45
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 93,
+          "pressure": 1027,
+          "temperature": -2.4,
+          "temperatureMax": -2.4,
+          "temperatureMin": -2.4,
+          "temperatureFeelsLike": -4.54
+        }
+      }
+    ],
+    "date": "2022-12-17T23:00:00.000Z"
+  },
+  {
+    "weatherDataSource": "OPEN_WEATHER_MAP",
+    "cityId": 3,
+    "sunset": 1671032491,
+    "sunrise": 1671001693,
+    "timestamps": [
+      {
+        "cloudiness": 97,
+        "timestamp": 1671408000,
+        "weatherWind": {
+          "degrees": 156,
+          "speed": 1.34,
+          "gust": 1.33
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 93,
+          "pressure": 1027,
+          "temperature": -0.86,
+          "temperatureMax": -0.86,
+          "temperatureMin": -0.86,
+          "temperatureFeelsLike": -2.46
+        }
+      },
+      {
+        "cloudiness": 92,
+        "timestamp": 1671418800,
+        "weatherWind": {
+          "degrees": 161,
+          "speed": 1.06,
+          "gust": 1.17
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 92,
+          "pressure": 1025,
+          "temperature": 2.2,
+          "temperatureMax": 2.2,
+          "temperatureMin": 2.2,
+          "temperatureFeelsLike": 2.2
+        }
+      },
+      {
+        "cloudiness": 95,
+        "timestamp": 1671429600,
+        "weatherWind": {
+          "degrees": 162,
+          "speed": 1.12,
+          "gust": 1.25
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 96,
+          "pressure": 1024,
+          "temperature": 2.64,
+          "temperatureMax": 2.64,
+          "temperatureMin": 2.64,
+          "temperatureFeelsLike": 2.64
+        }
+      },
+      {
+        "cloudiness": 98,
+        "timestamp": 1671440400,
+        "weatherWind": {
+          "degrees": 150,
+          "speed": 1.16,
+          "gust": 1.28
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 97,
+          "pressure": 1024,
+          "temperature": 3.52,
+          "temperatureMax": 3.52,
+          "temperatureMin": 3.52,
+          "temperatureFeelsLike": 3.52
+        }
+      },
+      {
+        "cloudiness": 96,
+        "timestamp": 1671451200,
+        "weatherWind": {
+          "degrees": 200,
+          "speed": 0.8,
+          "gust": 1.05
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 99,
+          "pressure": 1023,
+          "temperature": 5.82,
+          "temperatureMax": 5.82,
+          "temperatureMin": 5.82,
+          "temperatureFeelsLike": 5.82
+        }
+      },
+      {
+        "cloudiness": 99,
+        "timestamp": 1671462000,
+        "weatherWind": {
+          "degrees": 231,
+          "speed": 1.47,
+          "gust": 1.63
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 100,
+          "pressure": 1021,
+          "temperature": 4.43,
+          "temperatureMax": 4.43,
+          "temperatureMin": 4.43,
+          "temperatureFeelsLike": 3.34
+        }
+      },
+      {
+        "cloudiness": 94,
+        "timestamp": 1671472800,
+        "weatherWind": {
+          "degrees": 168,
+          "speed": 1.68,
+          "gust": 2.23
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 98,
+          "pressure": 1023,
+          "temperature": 3.03,
+          "temperatureMax": 3.03,
+          "temperatureMin": 3.03,
+          "temperatureFeelsLike": 1.46
+        }
+      },
+      {
+        "cloudiness": 78,
+        "timestamp": 1671483600,
+        "weatherWind": {
+          "degrees": 165,
+          "speed": 1.16,
+          "gust": 1.12
+        },
+        "weatherDescription": {
+          "text": "broken clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 98,
+          "pressure": 1023,
+          "temperature": 2.72,
+          "temperatureMax": 2.72,
+          "temperatureMin": 2.72,
+          "temperatureFeelsLike": 2.72
+        }
+      }
+    ],
+    "date": "2022-12-18T23:00:00.000Z"
+  },
+  {
+    "weatherDataSource": "OPEN_WEATHER_MAP",
+    "cityId": 4,
+    "sunset": 1671036534,
+    "sunrise": 1671003004,
+    "timestamps": [
+      {
+        "cloudiness": 82,
+        "timestamp": 1671062400,
+        "weatherWind": {
+          "degrees": 225,
+          "speed": 5.25,
+          "gust": 11.57
+        },
+        "weatherDescription": {
+          "text": "light rain",
+          "type": "Rain"
+        },
+        "weatherSummary": {
+          "humidity": 93,
+          "pressure": 999,
+          "temperature": 9.89,
+          "temperatureMax": 9.89,
+          "temperatureMin": 9.05,
+          "temperatureFeelsLike": 7.36
+        }
+      },
+      {
+        "cloudiness": 92,
+        "timestamp": 1671073200,
+        "weatherWind": {
+          "degrees": 228,
+          "speed": 5.59,
+          "gust": 11.07
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 90,
+          "pressure": 999,
+          "temperature": 9.38,
+          "temperatureMax": 9.38,
+          "temperatureMin": 8.91,
+          "temperatureFeelsLike": 6.6
+        }
+      },
+      {
+        "cloudiness": 77,
+        "timestamp": 1671084000,
+        "weatherWind": {
+          "degrees": 222,
+          "speed": 4.98,
+          "gust": 8.99
+        },
+        "weatherDescription": {
+          "text": "broken clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 88,
+          "pressure": 1000,
+          "temperature": 7.71,
+          "temperatureMax": 7.71,
+          "temperatureMin": 7.71,
+          "temperatureFeelsLike": 4.73
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671094800,
+        "weatherWind": {
+          "degrees": 230,
+          "speed": 4.33,
+          "gust": 8.17
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 86,
+          "pressure": 1001,
+          "temperature": 8.52,
+          "temperatureMax": 8.52,
+          "temperatureMin": 8.52,
+          "temperatureFeelsLike": 6.03
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671105600,
+        "weatherWind": {
+          "degrees": 240,
+          "speed": 4.42,
+          "gust": 7.36
+        },
+        "weatherDescription": {
+          "text": "light rain",
+          "type": "Rain"
+        },
+        "weatherSummary": {
+          "humidity": 84,
+          "pressure": 1001,
+          "temperature": 8.9,
+          "temperatureMax": 8.9,
+          "temperatureMin": 8.9,
+          "temperatureFeelsLike": 6.46
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671116400,
+        "weatherWind": {
+          "degrees": 256,
+          "speed": 4.78,
+          "gust": 6.56
+        },
+        "weatherDescription": {
+          "text": "light rain",
+          "type": "Rain"
+        },
+        "weatherSummary": {
+          "humidity": 76,
+          "pressure": 1001,
+          "temperature": 9.7,
+          "temperatureMax": 9.7,
+          "temperatureMin": 9.7,
+          "temperatureFeelsLike": 7.3
+        }
+      },
+      {
+        "cloudiness": 99,
+        "timestamp": 1671127200,
+        "weatherWind": {
+          "degrees": 243,
+          "speed": 3.52,
+          "gust": 6.36
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 85,
+          "pressure": 1002,
+          "temperature": 8.27,
+          "temperatureMax": 8.27,
+          "temperatureMin": 8.27,
+          "temperatureFeelsLike": 6.13
+        }
+      },
+      {
+        "cloudiness": 70,
+        "timestamp": 1671138000,
+        "weatherWind": {
+          "degrees": 249,
+          "speed": 3.16,
+          "gust": 5.88
+        },
+        "weatherDescription": {
+          "text": "broken clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 88,
+          "pressure": 1005,
+          "temperature": 7.45,
+          "temperatureMax": 7.45,
+          "temperatureMin": 7.45,
+          "temperatureFeelsLike": 5.35
+        }
+      }
+    ],
+    "date": "2022-12-14T23:00:00.000Z"
+  },
+  {
+    "weatherDataSource": "OPEN_WEATHER_MAP",
+    "cityId": 4,
+    "sunset": 1671036534,
+    "sunrise": 1671003004,
+    "timestamps": [
+      {
+        "cloudiness": 48,
+        "timestamp": 1671148800,
+        "weatherWind": {
+          "degrees": 245,
+          "speed": 2.81,
+          "gust": 5.25
+        },
+        "weatherDescription": {
+          "text": "scattered clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 86,
+          "pressure": 1006,
+          "temperature": 6.89,
+          "temperatureMax": 6.89,
+          "temperatureMin": 6.89,
+          "temperatureFeelsLike": 4.91
+        }
+      },
+      {
+        "cloudiness": 18,
+        "timestamp": 1671159600,
+        "weatherWind": {
+          "degrees": 240,
+          "speed": 2.39,
+          "gust": 3.77
+        },
+        "weatherDescription": {
+          "text": "few clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 88,
+          "pressure": 1007,
+          "temperature": 6.25,
+          "temperatureMax": 6.25,
+          "temperatureMin": 6.25,
+          "temperatureFeelsLike": 4.47
+        }
+      },
+      {
+        "cloudiness": 25,
+        "timestamp": 1671170400,
+        "weatherWind": {
+          "degrees": 235,
+          "speed": 1.66,
+          "gust": 2.37
+        },
+        "weatherDescription": {
+          "text": "scattered clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 93,
+          "pressure": 1008,
+          "temperature": 5.47,
+          "temperatureMax": 5.47,
+          "temperatureMin": 5.47,
+          "temperatureFeelsLike": 4.29
+        }
+      },
+      {
+        "cloudiness": 45,
+        "timestamp": 1671181200,
+        "weatherWind": {
+          "degrees": 224,
+          "speed": 0.88,
+          "gust": 1.45
+        },
+        "weatherDescription": {
+          "text": "scattered clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 91,
+          "pressure": 1010,
+          "temperature": 5.9,
+          "temperatureMax": 5.9,
+          "temperatureMin": 5.9,
+          "temperatureFeelsLike": 5.9
+        }
+      },
+      {
+        "cloudiness": 51,
+        "timestamp": 1671192000,
+        "weatherWind": {
+          "degrees": 180,
+          "speed": 0.76,
+          "gust": 0.91
+        },
+        "weatherDescription": {
+          "text": "broken clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 79,
+          "pressure": 1011,
+          "temperature": 8.18,
+          "temperatureMax": 8.18,
+          "temperatureMin": 8.18,
+          "temperatureFeelsLike": 8.18
+        }
+      },
+      {
+        "cloudiness": 82,
+        "timestamp": 1671202800,
+        "weatherWind": {
+          "degrees": 99,
+          "speed": 1.04,
+          "gust": 0.97
+        },
+        "weatherDescription": {
+          "text": "broken clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 73,
+          "pressure": 1010,
+          "temperature": 9.18,
+          "temperatureMax": 9.18,
+          "temperatureMin": 9.18,
+          "temperatureFeelsLike": 9.18
+        }
+      },
+      {
+        "cloudiness": 91,
+        "timestamp": 1671213600,
+        "weatherWind": {
+          "degrees": 67,
+          "speed": 2.16,
+          "gust": 2.56
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 78,
+          "pressure": 1012,
+          "temperature": 8.49,
+          "temperatureMax": 8.49,
+          "temperatureMin": 8.49,
+          "temperatureFeelsLike": 7.3
+        }
+      },
+      {
+        "cloudiness": 99,
+        "timestamp": 1671224400,
+        "weatherWind": {
+          "degrees": 43,
+          "speed": 2.12,
+          "gust": 2.76
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 77,
+          "pressure": 1014,
+          "temperature": 8.25,
+          "temperatureMax": 8.25,
+          "temperatureMin": 8.25,
+          "temperatureFeelsLike": 7.05
+        }
+      }
+    ],
+    "date": "2022-12-15T23:00:00.000Z"
+  },
+  {
+    "weatherDataSource": "OPEN_WEATHER_MAP",
+    "cityId": 4,
+    "sunset": 1671036534,
+    "sunrise": 1671003004,
+    "timestamps": [
+      {
+        "cloudiness": 92,
+        "timestamp": 1671235200,
+        "weatherWind": {
+          "degrees": 49,
+          "speed": 1.86,
+          "gust": 2.36
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 78,
+          "pressure": 1014,
+          "temperature": 7.89,
+          "temperatureMax": 7.89,
+          "temperatureMin": 7.89,
+          "temperatureFeelsLike": 6.86
+        }
+      },
+      {
+        "cloudiness": 96,
+        "timestamp": 1671246000,
+        "weatherWind": {
+          "degrees": 58,
+          "speed": 1.61,
+          "gust": 2.18
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 77,
+          "pressure": 1015,
+          "temperature": 8.07,
+          "temperatureMax": 8.07,
+          "temperatureMin": 8.07,
+          "temperatureFeelsLike": 7.33
+        }
+      },
+      {
+        "cloudiness": 98,
+        "timestamp": 1671256800,
+        "weatherWind": {
+          "degrees": 66,
+          "speed": 1.52,
+          "gust": 1.91
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 78,
+          "pressure": 1016,
+          "temperature": 8.08,
+          "temperatureMax": 8.08,
+          "temperatureMin": 8.08,
+          "temperatureFeelsLike": 7.44
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671267600,
+        "weatherWind": {
+          "degrees": 37,
+          "speed": 1.4,
+          "gust": 1.68
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 78,
+          "pressure": 1017,
+          "temperature": 8.4,
+          "temperatureMax": 8.4,
+          "temperatureMin": 8.4,
+          "temperatureFeelsLike": 7.94
+        }
+      },
+      {
+        "cloudiness": 98,
+        "timestamp": 1671278400,
+        "weatherWind": {
+          "degrees": 52,
+          "speed": 1.09,
+          "gust": 0.76
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 73,
+          "pressure": 1018,
+          "temperature": 9.82,
+          "temperatureMax": 9.82,
+          "temperatureMin": 9.82,
+          "temperatureFeelsLike": 9.82
+        }
+      },
+      {
+        "cloudiness": 89,
+        "timestamp": 1671289200,
+        "weatherWind": {
+          "degrees": 245,
+          "speed": 1.72,
+          "gust": 2.63
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 72,
+          "pressure": 1018,
+          "temperature": 10.55,
+          "temperatureMax": 10.55,
+          "temperatureMin": 10.55,
+          "temperatureFeelsLike": 9.54
+        }
+      },
+      {
+        "cloudiness": 69,
+        "timestamp": 1671300000,
+        "weatherWind": {
+          "degrees": 224,
+          "speed": 2.03,
+          "gust": 3.04
+        },
+        "weatherDescription": {
+          "text": "broken clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 83,
+          "pressure": 1020,
+          "temperature": 8.83,
+          "temperatureMax": 8.83,
+          "temperatureMin": 8.83,
+          "temperatureFeelsLike": 7.8
+        }
+      },
+      {
+        "cloudiness": 60,
+        "timestamp": 1671310800,
+        "weatherWind": {
+          "degrees": 248,
+          "speed": 1.86,
+          "gust": 2.93
+        },
+        "weatherDescription": {
+          "text": "broken clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 90,
+          "pressure": 1022,
+          "temperature": 7.7,
+          "temperatureMax": 7.7,
+          "temperatureMin": 7.7,
+          "temperatureFeelsLike": 6.64
+        }
+      }
+    ],
+    "date": "2022-12-16T23:00:00.000Z"
+  },
+  {
+    "weatherDataSource": "OPEN_WEATHER_MAP",
+    "cityId": 4,
+    "sunset": 1671036534,
+    "sunrise": 1671003004,
+    "timestamps": [
+      {
+        "cloudiness": 77,
+        "timestamp": 1671321600,
+        "weatherWind": {
+          "degrees": 221,
+          "speed": 1.31,
+          "gust": 1.4
+        },
+        "weatherDescription": {
+          "text": "broken clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 93,
+          "pressure": 1023,
+          "temperature": 7.03,
+          "temperatureMax": 7.03,
+          "temperatureMin": 7.03,
+          "temperatureFeelsLike": 7.03
+        }
+      },
+      {
+        "cloudiness": 79,
+        "timestamp": 1671332400,
+        "weatherWind": {
+          "degrees": 236,
+          "speed": 1.19,
+          "gust": 1.3
+        },
+        "weatherDescription": {
+          "text": "broken clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 94,
+          "pressure": 1024,
+          "temperature": 6.53,
+          "temperatureMax": 6.53,
+          "temperatureMin": 6.53,
+          "temperatureFeelsLike": 6.53
+        }
+      },
+      {
+        "cloudiness": 79,
+        "timestamp": 1671343200,
+        "weatherWind": {
+          "degrees": 186,
+          "speed": 0.7,
+          "gust": 0.85
+        },
+        "weatherDescription": {
+          "text": "broken clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 96,
+          "pressure": 1024,
+          "temperature": 6.08,
+          "temperatureMax": 6.08,
+          "temperatureMin": 6.08,
+          "temperatureFeelsLike": 6.08
+        }
+      },
+      {
+        "cloudiness": 92,
+        "timestamp": 1671354000,
+        "weatherWind": {
+          "degrees": 122,
+          "speed": 0.77,
+          "gust": 1.26
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 90,
+          "pressure": 1026,
+          "temperature": 7.4,
+          "temperatureMax": 7.4,
+          "temperatureMin": 7.4,
+          "temperatureFeelsLike": 7.4
+        }
+      },
+      {
+        "cloudiness": 95,
+        "timestamp": 1671364800,
+        "weatherWind": {
+          "degrees": 152,
+          "speed": 1.48,
+          "gust": 2.31
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 74,
+          "pressure": 1025,
+          "temperature": 9.81,
+          "temperatureMax": 9.81,
+          "temperatureMin": 9.81,
+          "temperatureFeelsLike": 9.45
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671375600,
+        "weatherWind": {
+          "degrees": 186,
+          "speed": 1.29,
+          "gust": 2.32
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 65,
+          "pressure": 1024,
+          "temperature": 11.11,
+          "temperatureMax": 11.11,
+          "temperatureMin": 11.11,
+          "temperatureFeelsLike": 9.97
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671386400,
+        "weatherWind": {
+          "degrees": 41,
+          "speed": 0.42,
+          "gust": 0.89
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 73,
+          "pressure": 1024,
+          "temperature": 9.16,
+          "temperatureMax": 9.16,
+          "temperatureMin": 9.16,
+          "temperatureFeelsLike": 9.16
+        }
+      },
+      {
+        "cloudiness": 99,
+        "timestamp": 1671397200,
+        "weatherWind": {
+          "degrees": 60,
+          "speed": 0.97,
+          "gust": 1.19
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 75,
+          "pressure": 1025,
+          "temperature": 8.41,
+          "temperatureMax": 8.41,
+          "temperatureMin": 8.41,
+          "temperatureFeelsLike": 8.41
+        }
+      }
+    ],
+    "date": "2022-12-17T23:00:00.000Z"
+  },
+  {
+    "weatherDataSource": "OPEN_WEATHER_MAP",
+    "cityId": 4,
+    "sunset": 1671036534,
+    "sunrise": 1671003004,
+    "timestamps": [
+      {
+        "cloudiness": 100,
+        "timestamp": 1671408000,
+        "weatherWind": {
+          "degrees": 70,
+          "speed": 0.96,
+          "gust": 1.11
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 77,
+          "pressure": 1024,
+          "temperature": 7.65,
+          "temperatureMax": 7.65,
+          "temperatureMin": 7.65,
+          "temperatureFeelsLike": 7.65
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671418800,
+        "weatherWind": {
+          "degrees": 79,
+          "speed": 1.13,
+          "gust": 1.27
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 76,
+          "pressure": 1024,
+          "temperature": 7.13,
+          "temperatureMax": 7.13,
+          "temperatureMin": 7.13,
+          "temperatureFeelsLike": 7.13
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671429600,
+        "weatherWind": {
+          "degrees": 69,
+          "speed": 1.3,
+          "gust": 1.36
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 78,
+          "pressure": 1024,
+          "temperature": 6.46,
+          "temperatureMax": 6.46,
+          "temperatureMin": 6.46,
+          "temperatureFeelsLike": 6.46
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671440400,
+        "weatherWind": {
+          "degrees": 72,
+          "speed": 1.38,
+          "gust": 1.79
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 73,
+          "pressure": 1024,
+          "temperature": 7.37,
+          "temperatureMax": 7.37,
+          "temperatureMin": 7.37,
+          "temperatureFeelsLike": 6.8
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671451200,
+        "weatherWind": {
+          "degrees": 143,
+          "speed": 1.49,
+          "gust": 2.25
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 58,
+          "pressure": 1023,
+          "temperature": 10.38,
+          "temperatureMax": 10.38,
+          "temperatureMin": 10.38,
+          "temperatureFeelsLike": 8.99
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671462000,
+        "weatherWind": {
+          "degrees": 226,
+          "speed": 0.58,
+          "gust": 1.33
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 55,
+          "pressure": 1021,
+          "temperature": 11.6,
+          "temperatureMax": 11.6,
+          "temperatureMin": 11.6,
+          "temperatureFeelsLike": 10.25
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671472800,
+        "weatherWind": {
+          "degrees": 34,
+          "speed": 0.36,
+          "gust": 1.39
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 61,
+          "pressure": 1021,
+          "temperature": 9.74,
+          "temperatureMax": 9.74,
+          "temperatureMin": 9.74,
+          "temperatureFeelsLike": 9.74
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671483600,
+        "weatherWind": {
+          "degrees": 163,
+          "speed": 1.01,
+          "gust": 1.24
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 64,
+          "pressure": 1021,
+          "temperature": 9.26,
+          "temperatureMax": 9.26,
+          "temperatureMin": 9.26,
+          "temperatureFeelsLike": 9.26
+        }
+      }
+    ],
+    "date": "2022-12-18T23:00:00.000Z"
+  },
+  {
+    "weatherDataSource": "OPEN_WEATHER_MAP",
+    "cityId": 5,
+    "sunset": 1671029526,
+    "sunrise": 1671001795,
+    "timestamps": [
+      {
+        "cloudiness": 30,
+        "timestamp": 1671062400,
+        "weatherWind": {
+          "degrees": 193,
+          "speed": 0.95,
+          "gust": 0.94
+        },
+        "weatherDescription": {
+          "text": "scattered clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 88,
+          "pressure": 997,
+          "temperature": -6.99,
+          "temperatureMax": -6.99,
+          "temperatureMin": -7.12,
+          "temperatureFeelsLike": -6.99
+        }
+      },
+      {
+        "cloudiness": 31,
+        "timestamp": 1671073200,
+        "weatherWind": {
+          "degrees": 233,
+          "speed": 1.52,
+          "gust": 2.38
+        },
+        "weatherDescription": {
+          "text": "scattered clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 92,
+          "pressure": 1002,
+          "temperature": -7.28,
+          "temperatureMax": -7.28,
+          "temperatureMin": -7.46,
+          "temperatureFeelsLike": -10.1
+        }
+      },
+      {
+        "cloudiness": 36,
+        "timestamp": 1671084000,
+        "weatherWind": {
+          "degrees": 225,
+          "speed": 1.78,
+          "gust": 4.27
+        },
+        "weatherDescription": {
+          "text": "scattered clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 93,
+          "pressure": 1007,
+          "temperature": -7.59,
+          "temperatureMax": -7.59,
+          "temperatureMin": -7.59,
+          "temperatureFeelsLike": -10.93
+        }
+      },
+      {
+        "cloudiness": 17,
+        "timestamp": 1671094800,
+        "weatherWind": {
+          "degrees": 215,
+          "speed": 2.3,
+          "gust": 4.79
+        },
+        "weatherDescription": {
+          "text": "few clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 76,
+          "pressure": 1009,
+          "temperature": -5.87,
+          "temperatureMax": -5.87,
+          "temperatureMin": -5.87,
+          "temperatureFeelsLike": -9.72
+        }
+      },
+      {
+        "cloudiness": 10,
+        "timestamp": 1671105600,
+        "weatherWind": {
+          "degrees": 222,
+          "speed": 2.33,
+          "gust": 4.73
+        },
+        "weatherDescription": {
+          "text": "clear sky",
+          "type": "Clear"
+        },
+        "weatherSummary": {
+          "humidity": 67,
+          "pressure": 1009,
+          "temperature": -2.5,
+          "temperatureMax": -2.5,
+          "temperatureMin": -2.5,
+          "temperatureFeelsLike": -5.79
+        }
+      },
+      {
+        "cloudiness": 4,
+        "timestamp": 1671116400,
+        "weatherWind": {
+          "degrees": 185,
+          "speed": 1.99,
+          "gust": 4.17
+        },
+        "weatherDescription": {
+          "text": "clear sky",
+          "type": "Clear"
+        },
+        "weatherSummary": {
+          "humidity": 84,
+          "pressure": 1009,
+          "temperature": -4.57,
+          "temperatureMax": -4.57,
+          "temperatureMin": -4.57,
+          "temperatureFeelsLike": -7.76
+        }
+      },
+      {
+        "cloudiness": 5,
+        "timestamp": 1671127200,
+        "weatherWind": {
+          "degrees": 182,
+          "speed": 2.4,
+          "gust": 4.9
+        },
+        "weatherDescription": {
+          "text": "clear sky",
+          "type": "Clear"
+        },
+        "weatherSummary": {
+          "humidity": 86,
+          "pressure": 1010,
+          "temperature": -5.27,
+          "temperatureMax": -5.27,
+          "temperatureMin": -5.27,
+          "temperatureFeelsLike": -9.14
+        }
+      },
+      {
+        "cloudiness": 8,
+        "timestamp": 1671138000,
+        "weatherWind": {
+          "degrees": 176,
+          "speed": 1.03,
+          "gust": 1.07
+        },
+        "weatherDescription": {
+          "text": "clear sky",
+          "type": "Clear"
+        },
+        "weatherSummary": {
+          "humidity": 89,
+          "pressure": 1011,
+          "temperature": -6.04,
+          "temperatureMax": -6.04,
+          "temperatureMin": -6.04,
+          "temperatureFeelsLike": -6.04
+        }
+      }
+    ],
+    "date": "2022-12-14T23:00:00.000Z"
+  },
+  {
+    "weatherDataSource": "OPEN_WEATHER_MAP",
+    "cityId": 5,
+    "sunset": 1671029526,
+    "sunrise": 1671001795,
+    "timestamps": [
+      {
+        "cloudiness": 14,
+        "timestamp": 1671148800,
+        "weatherWind": {
+          "degrees": 163,
+          "speed": 0.65,
+          "gust": 0.63
+        },
+        "weatherDescription": {
+          "text": "few clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 90,
+          "pressure": 1012,
+          "temperature": -6.54,
+          "temperatureMax": -6.54,
+          "temperatureMin": -6.54,
+          "temperatureFeelsLike": -6.54
+        }
+      },
+      {
+        "cloudiness": 23,
+        "timestamp": 1671159600,
+        "weatherWind": {
+          "degrees": 167,
+          "speed": 0.43,
+          "gust": 0.55
+        },
+        "weatherDescription": {
+          "text": "few clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 90,
+          "pressure": 1012,
+          "temperature": -6.76,
+          "temperatureMax": -6.76,
+          "temperatureMin": -6.76,
+          "temperatureFeelsLike": -6.76
+        }
+      },
+      {
+        "cloudiness": 22,
+        "timestamp": 1671170400,
+        "weatherWind": {
+          "degrees": 349,
+          "speed": 0.84,
+          "gust": 0.83
+        },
+        "weatherDescription": {
+          "text": "few clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 92,
+          "pressure": 1013,
+          "temperature": -7.1,
+          "temperatureMax": -7.1,
+          "temperatureMin": -7.1,
+          "temperatureFeelsLike": -7.1
+        }
+      },
+      {
+        "cloudiness": 46,
+        "timestamp": 1671181200,
+        "weatherWind": {
+          "degrees": 322,
+          "speed": 0.86,
+          "gust": 1.15
+        },
+        "weatherDescription": {
+          "text": "scattered clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 82,
+          "pressure": 1015,
+          "temperature": -4.96,
+          "temperatureMax": -4.96,
+          "temperatureMin": -4.96,
+          "temperatureFeelsLike": -4.96
+        }
+      },
+      {
+        "cloudiness": 55,
+        "timestamp": 1671192000,
+        "weatherWind": {
+          "degrees": 301,
+          "speed": 1.66,
+          "gust": 2.54
+        },
+        "weatherDescription": {
+          "text": "broken clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 85,
+          "pressure": 1015,
+          "temperature": -2.56,
+          "temperatureMax": -2.56,
+          "temperatureMin": -2.56,
+          "temperatureFeelsLike": -4.94
+        }
+      },
+      {
+        "cloudiness": 73,
+        "timestamp": 1671202800,
+        "weatherWind": {
+          "degrees": 299,
+          "speed": 1.56,
+          "gust": 2.26
+        },
+        "weatherDescription": {
+          "text": "broken clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 98,
+          "pressure": 1017,
+          "temperature": -4.52,
+          "temperatureMax": -4.52,
+          "temperatureMin": -4.52,
+          "temperatureFeelsLike": -7.02
+        }
+      },
+      {
+        "cloudiness": 59,
+        "timestamp": 1671213600,
+        "weatherWind": {
+          "degrees": 314,
+          "speed": 1.66,
+          "gust": 2.78
+        },
+        "weatherDescription": {
+          "text": "broken clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 98,
+          "pressure": 1019,
+          "temperature": -5.25,
+          "temperatureMax": -5.25,
+          "temperatureMin": -5.25,
+          "temperatureFeelsLike": -8.03
+        }
+      },
+      {
+        "cloudiness": 30,
+        "timestamp": 1671224400,
+        "weatherWind": {
+          "degrees": 313,
+          "speed": 1.69,
+          "gust": 3
+        },
+        "weatherDescription": {
+          "text": "scattered clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 96,
+          "pressure": 1021,
+          "temperature": -5.86,
+          "temperatureMax": -5.86,
+          "temperatureMin": -5.86,
+          "temperatureFeelsLike": -8.78
+        }
+      }
+    ],
+    "date": "2022-12-15T23:00:00.000Z"
+  },
+  {
+    "weatherDataSource": "OPEN_WEATHER_MAP",
+    "cityId": 5,
+    "sunset": 1671029526,
+    "sunrise": 1671001795,
+    "timestamps": [
+      {
+        "cloudiness": 39,
+        "timestamp": 1671235200,
+        "weatherWind": {
+          "degrees": 301,
+          "speed": 1.65,
+          "gust": 3.33
+        },
+        "weatherDescription": {
+          "text": "scattered clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 96,
+          "pressure": 1022,
+          "temperature": -6.23,
+          "temperatureMax": -6.23,
+          "temperatureMin": -6.23,
+          "temperatureFeelsLike": -9.14
+        }
+      },
+      {
+        "cloudiness": 34,
+        "timestamp": 1671246000,
+        "weatherWind": {
+          "degrees": 295,
+          "speed": 1.68,
+          "gust": 2.65
+        },
+        "weatherDescription": {
+          "text": "scattered clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 96,
+          "pressure": 1024,
+          "temperature": -6.61,
+          "temperatureMax": -6.61,
+          "temperatureMin": -6.61,
+          "temperatureFeelsLike": -9.63
+        }
+      },
+      {
+        "cloudiness": 40,
+        "timestamp": 1671256800,
+        "weatherWind": {
+          "degrees": 299,
+          "speed": 1.48,
+          "gust": 2.27
+        },
+        "weatherDescription": {
+          "text": "scattered clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 96,
+          "pressure": 1026,
+          "temperature": -6.87,
+          "temperatureMax": -6.87,
+          "temperatureMin": -6.87,
+          "temperatureFeelsLike": -9.55
+        }
+      },
+      {
+        "cloudiness": 70,
+        "timestamp": 1671267600,
+        "weatherWind": {
+          "degrees": 283,
+          "speed": 1.38,
+          "gust": 1.97
+        },
+        "weatherDescription": {
+          "text": "broken clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 90,
+          "pressure": 1028,
+          "temperature": -4.94,
+          "temperatureMax": -4.94,
+          "temperatureMin": -4.94,
+          "temperatureFeelsLike": -7.16
+        }
+      },
+      {
+        "cloudiness": 58,
+        "timestamp": 1671278400,
+        "weatherWind": {
+          "degrees": 255,
+          "speed": 1.4,
+          "gust": 1.81
+        },
+        "weatherDescription": {
+          "text": "broken clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 82,
+          "pressure": 1029,
+          "temperature": -2.38,
+          "temperatureMax": -2.38,
+          "temperatureMin": -2.38,
+          "temperatureFeelsLike": -4.29
+        }
+      },
+      {
+        "cloudiness": 21,
+        "timestamp": 1671289200,
+        "weatherWind": {
+          "degrees": 249,
+          "speed": 1.05,
+          "gust": 1.03
+        },
+        "weatherDescription": {
+          "text": "few clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 95,
+          "pressure": 1031,
+          "temperature": -4.93,
+          "temperatureMax": -4.93,
+          "temperatureMin": -4.93,
+          "temperatureFeelsLike": -4.93
+        }
+      },
+      {
+        "cloudiness": 15,
+        "timestamp": 1671300000,
+        "weatherWind": {
+          "degrees": 185,
+          "speed": 0.99,
+          "gust": 0.95
+        },
+        "weatherDescription": {
+          "text": "few clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 97,
+          "pressure": 1032,
+          "temperature": -5.99,
+          "temperatureMax": -5.99,
+          "temperatureMin": -5.99,
+          "temperatureFeelsLike": -5.99
+        }
+      },
+      {
+        "cloudiness": 32,
+        "timestamp": 1671310800,
+        "weatherWind": {
+          "degrees": 168,
+          "speed": 1.28,
+          "gust": 1.26
+        },
+        "weatherDescription": {
+          "text": "scattered clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 97,
+          "pressure": 1033,
+          "temperature": -6.43,
+          "temperatureMax": -6.43,
+          "temperatureMin": -6.43,
+          "temperatureFeelsLike": -6.43
+        }
+      }
+    ],
+    "date": "2022-12-16T23:00:00.000Z"
+  },
+  {
+    "weatherDataSource": "OPEN_WEATHER_MAP",
+    "cityId": 5,
+    "sunset": 1671029526,
+    "sunrise": 1671001795,
+    "timestamps": [
+      {
+        "cloudiness": 35,
+        "timestamp": 1671321600,
+        "weatherWind": {
+          "degrees": 145,
+          "speed": 1.67,
+          "gust": 2.36
+        },
+        "weatherDescription": {
+          "text": "scattered clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 96,
+          "pressure": 1034,
+          "temperature": -6.7,
+          "temperatureMax": -6.7,
+          "temperatureMin": -6.7,
+          "temperatureFeelsLike": -9.71
+        }
+      },
+      {
+        "cloudiness": 33,
+        "timestamp": 1671332400,
+        "weatherWind": {
+          "degrees": 130,
+          "speed": 2.64,
+          "gust": 7.42
+        },
+        "weatherDescription": {
+          "text": "scattered clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 95,
+          "pressure": 1034,
+          "temperature": -6.46,
+          "temperatureMax": -6.46,
+          "temperatureMin": -6.46,
+          "temperatureFeelsLike": -10.85
+        }
+      },
+      {
+        "cloudiness": 28,
+        "timestamp": 1671343200,
+        "weatherWind": {
+          "degrees": 125,
+          "speed": 3.49,
+          "gust": 10.91
+        },
+        "weatherDescription": {
+          "text": "scattered clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 94,
+          "pressure": 1033,
+          "temperature": -5.88,
+          "temperatureMax": -5.88,
+          "temperatureMin": -5.88,
+          "temperatureFeelsLike": -11.05
+        }
+      },
+      {
+        "cloudiness": 13,
+        "timestamp": 1671354000,
+        "weatherWind": {
+          "degrees": 133,
+          "speed": 4.56,
+          "gust": 12.64
+        },
+        "weatherDescription": {
+          "text": "few clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 90,
+          "pressure": 1033,
+          "temperature": -4.26,
+          "temperatureMax": -4.26,
+          "temperatureMin": -4.26,
+          "temperatureFeelsLike": -9.94
+        }
+      },
+      {
+        "cloudiness": 13,
+        "timestamp": 1671364800,
+        "weatherWind": {
+          "degrees": 135,
+          "speed": 5.35,
+          "gust": 14.15
+        },
+        "weatherDescription": {
+          "text": "few clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 74,
+          "pressure": 1030,
+          "temperature": -1.63,
+          "temperatureMax": -1.63,
+          "temperatureMin": -1.63,
+          "temperatureFeelsLike": -7.16
+        }
+      },
+      {
+        "cloudiness": 82,
+        "timestamp": 1671375600,
+        "weatherWind": {
+          "degrees": 134,
+          "speed": 5.84,
+          "gust": 15.8
+        },
+        "weatherDescription": {
+          "text": "broken clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 71,
+          "pressure": 1028,
+          "temperature": -2.26,
+          "temperatureMax": -2.26,
+          "temperatureMin": -2.26,
+          "temperatureFeelsLike": -8.23
+        }
+      },
+      {
+        "cloudiness": 91,
+        "timestamp": 1671386400,
+        "weatherWind": {
+          "degrees": 143,
+          "speed": 6.28,
+          "gust": 15.32
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 66,
+          "pressure": 1026,
+          "temperature": -2.39,
+          "temperatureMax": -2.39,
+          "temperatureMin": -2.39,
+          "temperatureFeelsLike": -8.63
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671397200,
+        "weatherWind": {
+          "degrees": 149,
+          "speed": 6.36,
+          "gust": 14.36
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 70,
+          "pressure": 1024,
+          "temperature": -2.13,
+          "temperatureMax": -2.13,
+          "temperatureMin": -2.13,
+          "temperatureFeelsLike": -8.34
+        }
+      }
+    ],
+    "date": "2022-12-17T23:00:00.000Z"
+  },
+  {
+    "weatherDataSource": "OPEN_WEATHER_MAP",
+    "cityId": 5,
+    "sunset": 1671029526,
+    "sunrise": 1671001795,
+    "timestamps": [
+      {
+        "cloudiness": 100,
+        "timestamp": 1671408000,
+        "weatherWind": {
+          "degrees": 156,
+          "speed": 5.09,
+          "gust": 12.32
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 75,
+          "pressure": 1023,
+          "temperature": -2.12,
+          "temperatureMax": -2.12,
+          "temperatureMin": -2.12,
+          "temperatureFeelsLike": -7.62
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671418800,
+        "weatherWind": {
+          "degrees": 158,
+          "speed": 5.06,
+          "gust": 12.72
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 72,
+          "pressure": 1021,
+          "temperature": -1.76,
+          "temperatureMax": -1.76,
+          "temperatureMin": -1.76,
+          "temperatureFeelsLike": -7.15
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671429600,
+        "weatherWind": {
+          "degrees": 172,
+          "speed": 5.18,
+          "gust": 14.42
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 75,
+          "pressure": 1020,
+          "temperature": 0.43,
+          "temperatureMax": 0.43,
+          "temperatureMin": 0.43,
+          "temperatureFeelsLike": -4.48
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671440400,
+        "weatherWind": {
+          "degrees": 172,
+          "speed": 5.34,
+          "gust": 13.63
+        },
+        "weatherDescription": {
+          "text": "overcast clouds",
+          "type": "Clouds"
+        },
+        "weatherSummary": {
+          "humidity": 85,
+          "pressure": 1019,
+          "temperature": 1.35,
+          "temperatureMax": 1.35,
+          "temperatureMin": 1.35,
+          "temperatureFeelsLike": -3.41
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671451200,
+        "weatherWind": {
+          "degrees": 183,
+          "speed": 5.19,
+          "gust": 13.49
+        },
+        "weatherDescription": {
+          "text": "light rain",
+          "type": "Rain"
+        },
+        "weatherSummary": {
+          "humidity": 90,
+          "pressure": 1018,
+          "temperature": 2.57,
+          "temperatureMax": 2.57,
+          "temperatureMin": 2.57,
+          "temperatureFeelsLike": -1.8
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671462000,
+        "weatherWind": {
+          "degrees": 177,
+          "speed": 4.94,
+          "gust": 12.52
+        },
+        "weatherDescription": {
+          "text": "light rain",
+          "type": "Rain"
+        },
+        "weatherSummary": {
+          "humidity": 93,
+          "pressure": 1016,
+          "temperature": 2.98,
+          "temperatureMax": 2.98,
+          "temperatureMin": 2.98,
+          "temperatureFeelsLike": -1.16
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671472800,
+        "weatherWind": {
+          "degrees": 179,
+          "speed": 5.66,
+          "gust": 15.42
+        },
+        "weatherDescription": {
+          "text": "light rain",
+          "type": "Rain"
+        },
+        "weatherSummary": {
+          "humidity": 91,
+          "pressure": 1015,
+          "temperature": 3.83,
+          "temperatureMax": 3.83,
+          "temperatureMin": 3.83,
+          "temperatureFeelsLike": -0.44
+        }
+      },
+      {
+        "cloudiness": 100,
+        "timestamp": 1671483600,
+        "weatherWind": {
+          "degrees": 193,
+          "speed": 5.47,
+          "gust": 15.1
+        },
+        "weatherDescription": {
+          "text": "light rain",
+          "type": "Rain"
+        },
+        "weatherSummary": {
+          "humidity": 80,
+          "pressure": 1014,
+          "temperature": 4.54,
+          "temperatureMax": 4.54,
+          "temperatureMin": 4.54,
+          "temperatureFeelsLike": 0.54
+        }
+      }
+    ],
+    "date": "2022-12-18T23:00:00.000Z"
+  }
+]

@@ -1,4 +1,4 @@
-import { Column, Entity, ManyToOne, OneToMany } from 'typeorm';
+import { Column, Entity, ManyToOne, OneToMany, Unique } from 'typeorm';
 
 import { BaseEntity } from './base.entity';
 import { CityEntity } from './city.entity';
@@ -10,12 +10,13 @@ import { WeatherDataSourceEnum } from '$core/enums';
 
 
 @Entity('WeatherForecasts')
+@Unique('WeatherForecasts_cityId_date_weatherDataSource_unique_constraint', ['cityId', 'date', 'weatherDataSource'])
 export class WeatherForecastEntity extends BaseEntity implements IWeatherForecast {
   @Column()
   cityId: number;
 
   @Column()
-  dayTimestamp: number;
+  date: Date;
 
   @Column({
     type: 'text',

@@ -12,6 +12,7 @@ export class CountryEntity extends BaseEntity implements ICountry {
   name: string;
 
   @Column({
+    unique: true,
     length: 10,
   })
   code: string;

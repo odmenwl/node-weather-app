@@ -29,8 +29,7 @@ export class WeatherParserRepository {
           sunrise: weatherForecast.sunrise,
           sunset: weatherForecast.sunset,
           cityId: weatherForecast.cityId,
-          dayTimestamp: weatherForecast.dayTimestamp,
-
+          date: weatherForecast.date,
         });
 
         for (const timestamp of weatherForecast.timestamps) {

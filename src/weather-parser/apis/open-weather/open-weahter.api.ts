@@ -30,6 +30,7 @@ export class OpenWeatherApi {
         lat,
         lon,
         appId: this.appid,
+        units: 'metric'
       }
     });
 
