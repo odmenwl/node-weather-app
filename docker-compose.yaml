@@ -13,7 +13,7 @@ services:
       DB_HOST: postgres
       DB_USER: postgres
       DB_PASSWORD: postgres
-      DB_DATABASE: weather
+      DB_DATABASE: weather_app_db
 
   postgres:
     image: postgres:14.1-alpine
@@ -21,7 +21,7 @@ services:
     environment:
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=postgres
-      - POSTGRES_DB=weather
+      - POSTGRES_DB=weather_app_db
     ports:
       - "5432:5432"
     volumes:
