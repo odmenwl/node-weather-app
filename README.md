@@ -33,3 +33,5 @@ P.S. Перш ніж приступати до виконання завданн
 ```
 docker compose up
 ```
+
+Swagger API - http://localhost:5000/docs

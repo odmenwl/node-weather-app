@@ -1,4 +1,4 @@
-import { Column, Entity, ManyToOne, OneToOne, Unique } from 'typeorm';
+import { Column, Entity, JoinColumn, ManyToOne, OneToOne, Unique } from 'typeorm';
 
 import { BaseEntity } from './base.entity';
 import { WeatherForecastEntity } from './weather-forecast.entity';
@@ -33,12 +33,15 @@ export class WeatherTimestampEntity extends BaseEntity implements IWeatherTimest
   weatherForecastId: number;
 
   @OneToOne(() => WeatherSummaryEntity)
+  @JoinColumn({ name: 'weatherSummaryId' })
   weatherSummary: WeatherSummaryEntity;
 
   @OneToOne(() => WeatherDescriptionEntity)
+  @JoinColumn({ name: 'weatherDescriptionId' })
   weatherDescription: WeatherDescriptionEntity;
 
   @OneToOne(() => WeatherWindEntity)
+  @JoinColumn({ name: 'weatherWindId' })
   weatherWind: WeatherWindEntity;
 
   @ManyToOne(() => WeatherForecastEntity, (w) => w.timestamps)
